@@ -1,0 +1,1 @@
+Русский перевод для World of Horror v0.9.84f от Void Owl Community
