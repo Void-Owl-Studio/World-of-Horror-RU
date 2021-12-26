@@ -1,0 +1,212 @@
+ВКЛЮЧИТЬ
+ВЫКЛЮЧИТЬ
+Телевизор выключен.
+У вас нет кассет которые можно бы посмотреть.
+(...) Local police are helpless as more and more victims with their throats slashed turn up in the downtown area. (...)
+(...) demolition of an old inner-city shrine has resulted in an array of unfortunate accidents and, most recently, the death of six people suspected of the arson. (...)
+(...) we are shocked after what she did. Her voice was always so calm... (...)
+(...) the TV host is gutting a big octopus. At least that's what she claims... because there are way too many tentacles (...)
+(...) local dentist has been found guilty of implanting dog teeth on their human patients - motive is currently unknown. (...)
+(...) a minor earthquake in the seaside region has revealed an entrance to a partially flooded cavern system. Local scientists believe some of the corridors could be man-made. (...)|10
+You can't get any signal from the outside world. What is happening?
+(...) Some of our readers report a strange tall man, dressed in white, taking the metro after dark, apparently stalking lone passengers. Please take care and avoid traveling alone. (...)
+(...) once a year, a ramen shop appears where there was once an alleyway - the ramen sold inside is made from its former patrons but can cure any health problem. (...)
+(...) the search for a missing person continues in the forest surrounding SHIOKAWA. If you have any information, please contact the police department (...)
+вы не видете ничего странного|15
+что это?
+н-наверное просто воображение....
+кто-то стоит в тени, смотря на вашу дверь...
+БЕСКОНЕЧНЫЙ РЕЖИМ|19
+ВЫБЕРИТЕ ТАЙНУ ДЛЯ РАССЛЕДОВАНИЯ
+Inexplicable and morbid events have been plaguing your town for some time now.##You've marked down five of them, hoping, that there is something connecting them.##You can tackle these 5 MYSTERIES in any order you want. Beware, your decisions will haunt you and influence yet unsolved MYSTERIES.
+REROLL MYSTERIES
+ОТКРЫТО КОНЦОВОК|23
+ч-что внутри?...
+ВЗЯТЬ КЛЮЧ
+ОНИ ЗНАЮТ
+Inside your mailbox, you find a small key.##What is it doing in there?
+S-someone has crammed your mailbox full of animal entrails...
+Вы проверили почтовый ящик...##Он пуст.
+ПОЧТОВЫЙ ЯЩИК|30
+They still didn't fix the water problem. It is black and oily and glistening.#No way you're going to wash yourself in that!
+The shower will help you calm down and do wonders for your sore muscles.#What temperature should you set it on?
+You scrub yourself, but you'll never be clean again.
+ХОЛОДНАЯ ВОДА (extra REASON regained)
+ТЕПЛАЯ ВОДА (небольшой буст опыта)
+ГОРЯЧАЯ ВОДА (extra STAMINA regained)
+ИСПОЛЬЗОВАТЬ БУТЫЛКУ С ВОДОЙ
+наполнить ПУСТУЮ БУТЫЛКУ водой
+(для этого требуется предмет 'ПУСТАЯ БУТЫЛКА')
+Вы уже наполнили одну бутылку.|40
+ТВОЙ ДОМ
+МАЯК
+НЕМНОГО ОТДОХНУТЬ
+ПОСМОТРЕТЬ В ГЛАЗОК
+ВЕРНУВШИСЬ ДОМОЙ, ВЫ ДУМАЕТЕ ЧЕМ ЗАНЯТЬСЯ ДАЛЬШЕ.
+ВЫ СЕЙЧАС НЕ РАССЛЕДУЕТЕ ТАЙНЫ. СВЕЖИЕ ГАЗЕТЫ А ТАК-ЖЕ ЗАМЕТКИ В ДРУГОЙ КОМНАТЕ, УКАЖУТ ВЕРНЫЙ ПУТЬ.
+LIGHT SWITCH
+СМОТРЕТЬ ТЕЛЕВИЗОР
+ПРИНЯТЬ ВАННУ
+СМЕНИТЬ ОДЕЖДУ|50
+START A NEW MYSTERY
+MOVE THE CURTAIN
+ОТКРЫТЬ ЯЩИК
+ЗАКРЫТЬ ЯЩИК
+ВЫБРАТЬ ДЕЙСТВИЕ
+You've already taken a bath.	
+Weird, nothing happens.
+Inside a figurine you find some money. (+1 FUNDS)
+You stand before a mirror, wondering which outfit to wear.
+Looking good.|60
+Очередной день начинается...
+Вроде скоро начнется дождь?
+Вы ничего не видете.
+Ominous black clouds circle the lighthouse...
+The ghost-grey mist enwrapped the whole town.
+It has been raining since morning.
+Снаружи прекрасный день.
+Снаружи уже темно.
+GET BACK TO THE TOWN SCREEN
+(complete at least one mystery to save progress)|70
+СОХРАНИТЬ ПРОГРЕСС И ВЫЙТИ ИЗ ИГРЫ
+(you can't save in ENDLESS mode)
+You could leave something to charge here.
+CUSTOM MYSTERIES
+saving/loading is temporarily disabled
+No custom mysteries found.
+by
+Length:
+replaces mystery
+(outfit locked)|80
+GO BACK
+That's a nice movie poster.
+CLASSIC MODE - OLD GODS are awakening! Your only chance of survival is solving five different mysteries. End of the world is at hand!|83
+ENDLESS MODE - It's hopeless! You can't stop the OLD GODS. In this mode, there are no mysteries to solve - earn points by surviving an endless stream of encounters.
+SCENARIO MODE - Short adventures set during the events of classic mode.#[coming soon!]
+ENDLESS MODE
+The game begins with a ritual. You can choose which OLD GOD to summon.##This selection will influence encounters and add unique events to your playthrough.
+select the OLD GOD and click again to confirm your choice
+somewhere, a group of people gathers, trying to awaken their master...
+(additional modes will unlock as you progress)|90
+OLD GOD'S RULE
+(character-exclusive perk cards only)
+(all unlocked perk cards)
+(randomized item statistics)
+ПРЕДЫСТОРИЯ
+---CTHAC-ATORASU, THE SPIDER GOD---
+The terrible spider god, CTHAC-ATORASU is once again awakening from its slumber...#Blinded by its impossible to satisfy hunger, it has started to tear down the walls of its cocoon prison.
+ETERNAL WEB: Вы не можете избежать битвы
+THE ETERNAL WEB
+CTHAC-ATORASU is once again awakening from  its slumber...##Blinded by its impossible to satisfy hunger, it has started to tear down the walls of its cocoon prison.##Stop it before it devours us all.|100
+[you can't escape from combat encounters]
+CTHAC-ATORASU
+---YGOTHAEG, THE IRRESISTIBLE GAZE---
+The nuclear tests in the Pacific region have awakened something evil in the depths of Mariana Trench.#YGOTHAEG is now slowly emerging, ready to once again rule the coastlines.
+GAZE OF YGOTHAEG: follow the commands or suffer its wrath
+Don't investigate DOWNTOWN, FOREST and MANSION or suffer its wrath.
+Don't investigate APARTMENTS, SCHOOL and VILLAGE or suffer its wrath.
+Don't investigate HOSPITAL, FOREST and VILLAGE or suffer its wrath.
+Don't investigate DOWNTOWN, MANSION and HOSPITAL or suffer its wrath.
+Don't investigate SCHOOL, SEASIDE and APARTMENTS or suffer its wrath.|110
+Don't investigate FOREST and SCHOOL or suffer its wrath.
+Don't investigate HOSPITAL and MANSION or suffer its wrath.
+Don't blink or suffer its wrath.
+You won't cheat YGOTHAEG that easily... (+1% DOOM)
+YGOTHAEG is getting furious... (+2% DOOM)
+IRRESISTIBLE GAZE|たまらない視線
+The nuclear tests in the Pacific region have awakened something evil in the depths of the Mariana Trench. YGOTHAEG is now slowly emerging, ready to once again rule the coastlines.
+[follow the commands or suffer its wraith]
+YGOTHAEG
+---GOIZO, THE THING FORSAKEN BY GOD---|120
+Banished to the other dimension a long time ago, GOIZO has found a way to use mirrors to ensnare and teleport its prey straight through the glass. And the glimpses behind your reflections are just the beginning of a real nightmare.
+MIRROR HORROR: Resting increases DOOM penalty
+THE THING FORSAKEN BY GOD|ごいぞ
+BANISHED to the other dimension long time ago,  GOIZO has found a way to use mirrors to ensnare and teleport its prey straight through the glass.##Glimpses of horror lurking behind your reflection are just the beginning...
+[resting at home raises DOOM]
+GOIZO|126
+---ATH-YOLAZSTH, THE TOWERING EYE---|127
+The Mad God favors astronomers and magicians, granting them its gift of power that unknowingly brings ATH-YOLAZSTH's bloated body closer and closer to Earth.
+COSMIC GIFT: Casting spells costing REASON, increases DOOM instead.
+THE MISSING STARS|アト-よらぞし|130
+Media reports on various people with seemingly supernatural skills.##Could it have any connection with the news about stars disappearing from the night sky?
+[casting spells raise DOOM instead its normal cost]
+ATH-YOLAZSTH
+---ITHOTU, THE DEVOURING FIRE---
+This supposed cause of destruction of the library of Alexandria, a perfect black marble statue has been recently discovered and is currently waiting in the museum of OOO for its long-awaited premiere.
+ENTROPY: both your damage and your enemies' is increased.
+ALEXANDRIA, 48 BC|いとつ
+THE supposed cause of destruction of the library of Alexandria, a perfect black marble statue has been recently rediscovered and is currently waiting in the museum of our town for its premiere...
+[both you and enemies deal extra damage]
+ITHOTU|140
+---HERALD OF THE SHATTERED COURT---
+The Court has begun to organize its next magnificent Ball. Everyone from SHIOKAWA is invited.#And everyone will attend, willing or not.
+COURT'S CALLING: completing a mystery triggers an additonal OLD GOD stir status
+CURIOUS CALL|奇妙な招待状
+<<It iSs mYy pleeaSurRe to invvvite evERyoNe tto tHhe mosTt magnnifFicent BALL of yyourR livVves! AnNd thHe laSst onNe.>>
+[every mystery: an additonal OLD GOD stir status]
+ГЕРАЛЬД
+ЭНТРОПИЯ
+increased combat damage
+COSMIC GIFT|150
+casting spells raises %DOOM
+IRRESISTIBLE GAZE
+follow the commands or suffer its wraith
+MIRROR HORROR
+resting increases DOOM penalty
+CTHAC-ATORASU
+ETERNAL WEB
+you can't escape from combat encounters
+COURT'S CALLING
+completing a mystery triggers an additonal OLD GOD stir status|160
+АЛЛЕЯ|161
+ЗДАНИЕ
+МАГАЗИН
+РЕСТОРАН
+УЛИЦА
+КЛАСС
+КОРИДОР
+SCHOOLYARD
+КАЧАЛКА
+БИБЛИОТЕКА|170
+CORRIDOR|171
+WAITING ROOM
+CONSULTING ROOM
+АПТЕКА
+SICKROOM
+SEASIDE
+ПЛЯЖ
+CLIFF
+ПЛЯЖ
+SEASIDE|180
+FOREST
+CLEARING
+STREAM
+THICKET
+ABANDONED HUT
+OVERGROWN GARDEN
+ОСОБНЯК
+MANOR
+HOUSE
+КОМНАТА|190
+ДЕРЕВНЯ
+SHRINE
+INN
+ПОЛЕ
+УЛИЦА
+АППАРТАМЕНТЫ
+КОРИДОР
+ЛЕСТНИЦА
+FIRE ESCAPE
+ЛОББИ|200
+SITE
+CLIMBING UP THE STAIRS...
+DRIFTING...
+ИССЛЕДОВАНИЕ
+select the OLD GOD and click again to confirm your choice|205
+somewhere, a group of people gathers, trying to awaken their master...
+You've been following the weird cult for weeks now.##Barely surviving the encounter with the skin hag at the nursery, it's a race against time and you can't rest until our town is safe...|あなたは奇妙なカルト集団を数週間に渡って追跡した。##保育所での皮鬼女との遭遇をかろうじて生き残りはしたが、#所詮は時間の問題だ。この街が安全にならない限り、安心して眠ることもできないだろう……
+НАЧАТЬ ЗАГАДКУ
+туториал боя: ВКЛ
+туториал боя: ВЫКЛ|210
+THE STORY SO FAR|これまでの話
+"Первый раз?#[нажми]"

@@ -1,0 +1,864 @@
+MACABRE MEMOIR OF MORBID MERMAIDS|1
+MACABRE MEMOIR OF MORBID MERMAIDS##The janitor was obsessed with mermaids.#He's collected every scrap of the legend about them in the school basement.
+Now his mind has snapped.##He's decided  it's time to make one of his own, using unfortunate students’ bodies as materials.
+...have you seen that creep janitor lately? Gives me goosebumps, every time I see him.
+MERMAID SIGHTING
+Investigate the SEASIDE location twice to complete this quest.
+You may be going crazy, but you can swear something is watching you from the sea.#(-1 REASON)
+MORBID SCHOOL
+There's one thing everyone at the school is talking about.##Another girl from your area has gone missing.|
+Could there be anything connecting all the missing people? ##I should investigate DOWNTOWN next.|10
+Asking around the neighborhood, got you /some/ results.##It seems that all the girls have attended the same school.
+All missing girls were apparently members of the school swimming team. ##Maybe someone saw the kidnapper stalking them?
+You find a notebook containing handwritten and detailed notes about the swimming club itself and... mermaids?
+Whoever the kidnapper may be, they seem to be really obsessed about mermaids.##Inside the science lab, you find a plan of the town's sewer system.
+Someone has marked a path leading from the sea, directly to the school building.
+There's something wrong here. A weird apathy seems to infect every adult you ask for help.##You will have to deal with it alone.
+You compare the sewer plan with a school map and it suddenly dawns on you...
+School basement! That must be the place the kidnapper is keeping missing swimmers!
+There is no turning back now.##God, let's hope she is alright...
+SCHOOL BASEMENT|20
+You bust through the door to the janitorial closet, but it's already too late.#The latest missing girl is lying on a dirty mattress. The upper part, at least.##A tail of a fish has been crudely sewed in place of her legs.##<<She was too weak and died, >> you hear the mad janitor say. He looks you up and down. <<...maybe you'll do.>>
+PREPARE YOURSELF
+DISTRACT HIM
+INSMASU LOOK
+MAD JANITOR is stepping over the body when he suddenly stops, noticing your mutation.##<<t-the gills... you are the one I've been looking through all my life...>>##He falls on his knees and raises hands, not noticing a movement behind him...
+INSMASU CURSE
+The girl suddenly springs to life! With a deafening shriek, she jumps on the hypnotized JANITOR and starts choking him!##His last words chill you to your bone...##<<THE#SEA#WILL#CLAIM#YOU#BACK>>
+PASS OUT
+MERMAID IN A MANHOLE
+To your horror, a scaly hand reaches from the opened manhole and pulls the screaming janitor inside.#Silence.##After a few seconds that feel like an eternity, a grotesque half-human, half-fish thing slowly emerges. It takes a long look at the mutilated corpse and sighs.##<<He had a good idea about the two halves...>> it croaks. ##<<but the fish should be on top.>>|30
+MORBID DISCOVERY
+MAD JANITOR's body slumps to the floor.##You pick up his axe and, using it as a crutch, you try to leave the room. Injured and weakened, you  slowly lose consciousness on the school corridor...
+Police officers find you a few hours later. No trace of the mad janitor is found, but you will sleep a little better tonight knowing that the other students are safe.##[MACABRE MEMOIR OF MORBID MERMAIDS:#ENDING A]
+Police officers find you a few hours later. No trace of the mad janitor is found, but you will sleep a little better tonight knowing that the other students are safe.##[MACABRE MEMOIR OF MORBID MERMAIDS:#ENDING B]
+You are rescued by the firemen, trying to contain the fire.##No trace of the mad janitor is found, and no one believes your story, but you will sleep a little bit better tonight knowing that the other students are safe.##[MACABRE MEMOIR OF MORBID MERMAIDS:#ENDING C]
+Police officers find you a few hours later. No trace of the mad janitor is found, but you will sleep a little better tonight knowing that the other students are safe.##Words of the janitor echo in your head. Now, you can't help but shudder hearing the sound of waves crashing on the beach... and the sounds of something coming out of the water...##[MACABRE MEMOIR OF MORBID MERMAIDS:##ENDING D]
+[SCHOOL FIRE]: new town status
+[INSMASU CURSE]: the sea will claim you back
+NOTICE HIS FACE
+<<I... I'm sso lonely...>> he stammers, taking a step forward.#<<For yearss... I've dealt with thiss... void inside me...>>#(another  step forward)#<<Each night I dream about about a city underwater... I realissed... that's where I truly belong...>>#(and another)#<<Let me take you there...>>|40
+AGREE
+SEND AN ALLY INSTEAD
+IN TOO DEEP (I)
+KANA takes a step back.#<<Don't even look at me like that! I'm not going anywhere>>
+You push your surprised ally right into the embracing arms of the janitor.#Before they can say anything, the fishman open his mouth revealing two rows of sharp shark-like teeth. He bites your follower in the neck, almost decapitating them in process.##You're too shocked to do anything! #<<This will do...>> he says, smiling and opening up the manhole.##<<...for now.>>
+IN TOO DEEP (II)
+Was the talk about the underwater city just an excuse or a crazed serial killer or did the janitor really believe in the mermaid city located somewhere deep under the waves? 
+IN TOO DEEP (III)
+Reluctantly, you reach out your hand and the janitor grabs it. He freezes, seemingly studying your face in a better light.#<<I've... sseen you in my dreamss... I... don't need to take you anywhere...>>###He smiles and lets go of your hand and jumps into the open manhole.#<<You're doomed to go there eventually... and I'll wait for you...>>#(+4% DOOM)
+Whatever's the case, you really should see a dermatologist about your skin allergy. With each day, it starts to look more and more like... fish scales...##[MACABRE MEMOIR OF MORBID MERMAIDS:#ENDING E]|50
+FIRE AND WATER
+Suddenly, the mutilated girl moans quietly and twitches. The fishtail causes the lamp to fall and break, igniting the chemicals.##MAD JANITOR catches fire and starts screaming terribly. You try to avoid him thrashing around the room, setting everything on fire.##Thick smoke and the smell of burning flesh makes you feel weak...
+[SCHOOL BURNED DOWN]##<<while classes will continue in an old wing, no student will gather in the schoolyard>>|53
+bleeds out on the cold floor of the janitorial closet! (-2 REASON)|54
+A - MORBID DISCOVERY|55
+B - MERMAID IN A MANHOLE
+C - FIRE AND WATER
+D - INSMASU CURSE
+E - LONELY FISHMAN
+FREAKY FEATURE OF FOUND FOOTAGE|60	
+FREAKY FEATURE OF FOUND FOOTAGE##Three students disappeared in the process of making a documentary about local folklore and legends of the nearby forest. 
+Now, on the first anniversary of the event, a suspicious man has started asking questions.##He claims to be a private investigator hired by the parents of the students. 
+Except the parents of your friends didn't hire him.##Who is he and what did the students discover out there? 
+...I knew the missing guy. I still hope they will find them in these cursed woods... 
+WITCH STORY 
+Investigate the MANSION location twice to complete this quest. 
+The legends say the witch was buried alive for kidnapping and murdering two children.#It points you in a specific direction, potentially saving you some time...
+SITE OF THE RITUAL|68
+Three students disappeared in the process of making a documentary about the local folklore.#Maybe you'll find a clue about their last known whereabouts in the school's newspaper? 
+The notes mention a village not far from your town. You decide to take a bus.|70
+Getting closer, you can't help but notice a large number of trees that have suddenly died. What happened here…? 
+Everyone in the village is unsettlingly friendly.##An old farmer points you to an old stone - the missing group supposedly started their forest trip there. 
+Looking back one last time, you continue deeper into the woods... 
+All the paths look the same. Are you lost? 
+You have a feeling someone is following you... 
+You find a pile of human teeth lying on a nearby rock. 
+The ruined house! That's where the missing crew was supposed to go! 
+SITE OF THE RITUAL
+The rumored witch house seems empty.##In the basement, however, you find a camera pointed at the large hole in the ground. On the table next to the camera, you see three cassettes, each titled after one of the missing friends. ##Then, you hear a curious sound coming from the hole...
+TAKE CASSETTES AND RUN|80
+PEEK INSIDE|81
+WISHING WELL 
+You kneel down and lean forward to see what's inside the hole.##It takes a while to process what you are looking at. It’s a gigantic eye, staring right at you! ##Hypnotized, you continue to lean in, feeling weaker and weaker as the gargantuan beast lures you in. 
+LOSE CONSCIOUSNESS 
+POUR ACID INSIDE 
+Not being able to deal with it, you decide to grab the tapes and run. ##You wander aimlessly through the woods for a few hours until you are found by a search party. You lead them to the house, but... the door to the basement is missing. ##The case remains open.#[FREAKY FEATURE OF FOUND FOOTAGE:#ENDING C] 
+At the very last moment, the suspicious tall man grabs you by the collar.##He explains he is a part of a cult protecting the house and the mysterious entity below it. 'You've got a bigger purpose than to die here,' he says before knocking you out. ##You wake up a few hours later on a bus heading back to your town. #[FREAKY FEATURE OF FOUND FOOTAGE:#ENDING B]|87
+You open the can of acid and empty its contents in the well. The house’s foundation shakes as the massive creature's eye burns.##Walls begin to collapse as you pass out from the toxic fumes. You wake up later with the cassettes in your trembling hand. ##The witch's house is nowhere to be seen... #[FREAKY FEATURE OF FOUND FOOTAGE:#ENDING A] 
+[EYE]: the forest is restless 
+A - SHUNNED HOUSE|90
+B - WISHING WELL
+C - TAPES
+ALARMING ACCOUNT OF ABNORMAL ARMS|93
+ALARMING ACCOUNT OF ABNORMAL ARMS##I remember when it started. The woman next door was strangled to death in her bed, with no sign of forced entry.##The killer was never found, and the apartment remained vacant...
+...stranged in her own apartment? This is unbelievable!
+ABNORMAL ANATOMY
+Investigate the HOSPITAL location twice to complete this quest.
+Anatomical Museum archive displays a specimen with elongated arms and jellified bones.#(-1 REASON)
+BOILER ROOM
+The door to her apartment was closed and she lived alone.##What other ways in are there?|100
+Maybe you can get the apartment plan to compare with other flats?
+The apartment is on the third floor.##There is no way somebody used the window to escape the murder scene.
+You notice the odd placement of ventilation shafts.##They seem too small for anyone to crawl through, though.
+You should interview the neighbors. #Maybe you'll discover something the police missed?...
+One neighbor is complaining about her underwear missing.
+Second neighbor is complaining about weird noises coming from the vents, when she's at home.
+Let's check the building plan to find out if there is a place where all the vents connect...
+Every room is connected by vents coming from the unused boiler room.##Could it be?...
+BOILER ROOM
+You enter the dark boiler room and trip over the pipe. Cursing, you find a light switch - and gasp in horror. It's not a pipe at all. ##It's a long rubbery arm coiling around the room and ending in a ventilation shaft. Coming closer, you can smell something vile and rotten...|110
+CHECK THE VENT
+You almost fall to the ground when you see the wide-open stare of the dead pervert, his elongated limbs stretching and disappearing in the vent's darkness.#Inside his mouth, you find a TINY KEY.
+You almost fall to the ground when you see the wide-open stare of the dead pervert, his elongated limbs stretching and disappearing in the vent's darkness.
+After the police have arrived, the whole building was searched. Following the arms, the detectives find the body of a man stuck in a ventilation shaft. ##Later, he is identified as the building caretaker. In his closet, police find pieces of underwear and voyeur photos of the tenants.
+You are questioned thoroughly and eventually released as the murder case is being covered up as a case of an unfortunate gas leak.##[ALARMING ACCOUNT OF ABNORMAL ARMS:#ENDING A]
+After the police have arrived, the whole building was searched. Following the disgusting body, the detectives enter one of the flats. ##Inside the slimy lair, there were countless giant semi-transparent eggs. When broken, they revealed horrible centipede/human fetus hybrids!
+You are questioned thoroughly while the government people dressed up like gas company clean up the apartment.#You are eventually released but can swear that at night, you still hear the faint skittering sounds coming from the vents.##[ALARMING ACCOUNT OF ABNORMAL ARMS:#ENDING B]
+[SKITTERING SOUNDS]: they missed one 
+A - PERVERT
+B - CENTIPEDE|120
+CURIOUS CASE OF A CONTAGIOUS COMA|121
+CURIOUS CASE OF A CONTAGIOUS COMA##More and more people fall unconscious and cannot be awakened. People trying to wake the patients up result with them falling into a coma themselves.
+A whole wing of the town's hospital has been dedicated for the comatose.##Is there anything connecting these people and how did this strange illness start?
+...if I were you, I'd avoid that hospital at all cost...
+PATIENT ZERO
+Investigate the VILLAGE location twice to complete this quest.
+An old man from the village hands you a package.#<<This should help you understand the illness...>>#(+ITEM)
+QUARANTINE WING
+Let's check the news reports about this weird disease and try to find the cause, before more people fall asleep.
+Reports mention a patient zero, who could they be?|130
+You have to sneak into the hospital and 'borrow' the patient zero's information.
+You've got the name and address. Let's get out of here.
+Patient zero's house seems empty. You should search it carefully...
+That man dabbled in magic! You've found a journal,
+describing a certain village and instructions for a summoning ritual.##It seems that he tried to contact a being from the dream realms.
+The quarantine wing is guarded closely.##You must find a way to sneak through...
+There it is.##Let's hope you find an answer here...
+QUARANTINE WING
+You've managed to sneak through the floor avoiding the police and finally reach the quarantine wing, where all the coma patients were brought in.##Their pulse is slowly weakening and the blood pressure dropping, you must hurry.
+INVESTIGATE|140
+USE THE DUST OF SEEING
+Complete silence of this place hits you when you reach one of the beds. ##All patients are dead.#(-3 REASON)
+Following the old man's advice you throw the DUST OF SEEING in the air. ##It reveals weird elongated monsters hanging from the ceiling, one above every bed. Each creature is connected to a patient with an undulating tendril!##As you try to process everything, one of the disgusting creatures raises its head and looks in your direction!
+PREPARE YOURSELF
+Shaken, you sneak out from the hospital. One thing is certain though, with no sick people, it's the end of this weird illness.##[CURIOUS CASE OF A CONTAGIOUS COMA:# ENDING B]
+The creature's severed body falls on the floor and starts melting, slowly.##The remaining part slithers back into the now-closing hole in the ceiling. You've managed to catch a glimpse of the other side.##The other side makes you fall on your knees. It wasn't its body that you've managed to cut off...##it was just a finger.
+Shaken, you sneak out from the hospital. One thing is certain though, it's the end of this weird illness.##[CURIOUS CASE OF A CONTAGIOUS COMA:# ENDING A]
+[DREAM EATER]: the hospital is now safe
+A - DREAM DEVOURER
+B - SATED... FOR NOW|150
+HORRIBLE HISTORY OF HOUSEHOLD HELL|151
+HORRIBLE HISTORY OF HOUSEHOLD HELL##There are many old mansions around this town. OOO manor is one of them.##Supposedly haunted by the family of four, who disappeared without a trace one summer. But is it the only tragic event that took place there?
+...I've heard some rumors about that mansion. Please, don't go there...
+BUILDING HISTORY
+Investigate the SEASIDE location twice to complete this quest.
+You've learned the cliff the mansion was built on is famous for its extensive cave system. You've decided to rent some books that might help you.
+UNDERGROUND CHAMBER
+Friends you've talked with, are not sure where the mansion itself is located...
+You have to find the mansion first.#A trip to the library may shed some light on it.
+The building was supposed to be somewhere near the cliffs.##You copy the mansion's photo from the newspaper and prepare to leave...|160
+Comparing different mansions with the sketch, you finally find the one.##There's only one problem...
+You will need a strong rope to enter the mansion through the high window.
+You make it through the window. This is the abandoned mansion, your friends have talked about...##let's explore it!.
+You've heard a weird noise coming from the locked study.##You must find a key!
+Keep looking for a key!
+This must be the place where the key is!
+You've finally found the key to the study room...##Hopefully, you will find an answer there.
+STUDY ROOM
+You aren’t sure what to expect. The sturdy door to the study opens with a creak. The dark, dusty room is empty but something feels wrong; #A faint draft perhaps.##You move the rotten carpet aside to reveal a secret passageway cut directly into the cliff rock.
+MAKE YOUR WAY DOWN|170
+UNDERGROUND CHAMBER
+Following a strange song, you discover a hidden passage that leads you to an underground chamber connected to the sea. ##You can’t find the source of the sounds, but then it hits you. The acoustics of this place make the waves sound like the most beautiful serenade.##Mesmerized, you step closer to the stone altar at the end of the room.
+STEP CLOSER
+EXPLORE SOME MORE
+Acoustics of the underground caves make the waves and the machine tone create a ghastly melody, shaking you to the bone.##As you move closer to the stone altar, you scream in terror. You are not the only one charmed by the sounds...
+PREPARE FOR COMBAT
+CAVERN DEPTHS
+You try to explore the side corridors, but it's too dark.##If you only had some source of light...
+You follow a winding corridor until you stumble upon something really strange.#Someone has set up a series of vintage-looking speakers, all connected to a single unit. The speakers must be the source of the sounds.##You see a knob, allowing you to change its frequency...
+RETURN TO THE MAIN CORRIDOR|180
+THE CYCLE CONTINUES
+The coiled body of a gargantuan beast disappears under the waves once again, perhaps... satisfied?##You have little doubt another family will try to move in in the future and be lured by the beast so you destroy the speakers and set fire to the whole mansion...
+SIREN SOUNDS GET LOUDER...
+THE INNER COIL
+Almost tripping over the countless human bones, you decide to run from the cave. ##The haunting melody continues to follow you as OETARU begins its reign of terror in the waters surrounding SHIOKAWA...
+Almost tripping over human bones, you decide to run from the cave. The haunting melody continues to follow you...
+Unholy chants coming from the caves connected with the mansion must have driven the family insane.##You, however, decided to take your fate into your own hands. Burning down the mansion will prevent any future family from moving in and discovering the terrible secret of the cave system...##[HORRIBLE HISTORY OF HOUSEHOLD HELL:#ENDING A]
+Unholy chants coming from the caves connected with the mansion must have driven the family insane.##Awakening OETARU almost made you share their fate. You decided to run, afraid of the dire consequences.##THE INNER COIL always gets its victim and the fishermen look so tasty...##[HORRIBLE HISTORY OF HOUSEHOLD HELL:#ENDING B]
+Unholy chants coming from the caves connected with the mansion must have driven the family insane.##With no connection to the outside world, they fed on what they had; themselves.##However, this doesn't explain the fresh corpses and wet tracks around the altar…##[HORRIBLE HISTORY OF HOUSEHOLD HELL:#ENDING C]
+A - INNER COIL|190
+B - BEAST AWAKENED
+C - MYSTERY BURIED DEEP|192
+SORROWFUL SAGA OF THE MOONLIGHT SAILORS|193
+SORROWFUL SAGA OF THE MOONLIGHT SAILORS##It began with one fisherman. Who dragged something truly awful from the belly of the ocean.  ##A dark writhing ooze, that mesmerized him beyond control.
+He hid himself away for a week, adoring it.  Not to be seen until one moonlit night, when a young girl spotted his boat drifting away.##A single lantern swinging at the helm and the captivated fisherman singing eerily to his catch.
+Now more and more fishermen have begun to find the vile oozes in their nets. And one by one they are disappearing.##Soon the ocean will have taken them all.
+...my dad says, the sailors gather at a beach nearby...
+HOOKS AND NETS
+Discard two item cards to complete this quest.
+You find a huge pile of nets and hooks prepared for the big hunt. You quickly throw them into the ocean. #Maybe that’ll stop them from sailing out.|200
+You couldn't find the nets and hooks prepared for the big hunt. What you did find, was a huge bonfire in the middle of the beach.#You take a burning branch lighting your way with you.
+THE BEACH|202
+You start your investigation, hoping to overhear some rumors at the fish market.
+Although you brave the stench for hours, you glean nothing besides the fact the fisherman had a wife...##Perhaps you should pay her a visit?
+When you arrive at the fisherman’s house it stands long vacated.##Peering in through the dusty window you recoil in shock...
+The fisherman’s wife lies in the kitchen.##Mutilated and covered with black marks...
+Surely someone else must have caught one of these?##You lurk around hoping to spot one of them..
+The young man has glassy eyes and mumbles his replies between caressing his catch.##The beating movements in his arms disturb you...
+After a slow interrogation, the young man manages to stutter out something about an organized fishing trip.
+You slip out at night and race towards the beach, terrified of what comes next...|210
+THE BEACH|211
+The full moon shines bright in the cloudless night sky. The ink-black ocean waves, glimmer eerily. ##All the residents have drawn their shutters tight and locked their doors. Your footsteps are silent in the sand.#The only sounds are your ragged breathing and pounding heartbeat...
+You arrive at the water’s edge breathless. ##The possessed fishermen’s boats fill the horizon with their light. ##Tiny yellow spots navigating across a dark ocean under a dark sky. #You cannot make out the figures on board.
+FISHING SEASON'S END
+It’s not the sailors. The black beings must've left their bodies! Shocked, you watch them sail their way out of the harbor. ##You are terrified at their power, but relieved that they did not drag their meat puppets with them.
+REAL CATCH
+Hypnotized you watch as they bob their way out of the harbor.##Their lanterns move farther and farther away and you hear the odd chanting slowly fade with the wind.##You stand in the cold until the final boat is out of sight and it is pitch black again.#There’s nothing to do now. You head home, weird chant still in your head...
+The black beings never returned.#Yet mothers would not let their children play on the beach.##Over time people forgot the last time they saw a boat out on the waves.##Although some claim they see strange beings come into the port at night...  #[SORROWFUL SAGA OF THE MOONLIGHT SAILORS:#ENDING A]
+No one spoke of the fishermen after they sailed off. Grieving mothers would not let their children anywhere near the cursed beach. ##Over time people forgot the last time they saw a boat out on the waves...##[SORROWFUL SAGA OF THE MOONLIGHT SAILORS:#ENDING B]
+[MISSING SAILORS]: new events available|220
+THE SEEPING APOSTLE
+THROW YOUR TORCH
+The whole section of the beach is black with ooze, slowly engulfing the bodies of the missing sailors.##Right in the middle of it, stands a lone figure. When he spots you, the ooze stops undulating for a second before rapidly moving towards you, leaving the half-eaten corpses behind.#
+PREPARE FOR COMBAT
+THE BURNING COAST
+You throw the torch towards the figure and the ooze instantly ignites, quickly turning the whole beach into a burning nightmare, devouring both the black substance and the corpses.##The noxious fumes force you to retreat and find cover...
+It was definitely a close call. Too close for your liking. ##You are sure the newspapers will report on the goo, now dried-up and looking just like volcanic ash tomorrow.#Tonight, however, all you're thinking about is a hot bath.##[SORROWFUL SAGA OF THE MOONLIGHT SAILORS:#ENDING C]
+A - FISHING SEASON'S END
+B - REAL CATCH
+C - BURNING COAST|230
+SPINE-CHILLING STORY OF SCHOOL SCISSORS|学校とハサミに関する恐怖
+SPINE-CHILLING STORY OF SCHOOL SCISSORS##Another boy from your school has disappeared. Rumor has it, a terrible woman has returned from the grave. A woman with the widest smile...##and the sharpest scissors.|「学校とハサミに関する恐怖」##あなたの学校からまた男子生徒が行方不明となった。噂では、「大きな」笑顔を持った恐ろしい女が墓から甦ってきたという…##これ以上なく鋭利なハサミと共に。
+You knew your friend was up to something when he left you his notebook full of cryptic notes.##<<I can send her back where she belongs>> he claimed.|あなたの友人は、何かあった時のために、完全に暗号化された手記をあなたに残していた。##その中で彼はこう記している。「彼女を元の世界に帰してやることができる」
+After he disappeared too, you decided to study the notebook for clues.##It details a ritual that can stop the wicked woman once and for all.##What's the worst thing that could happen?|彼もまた行方不明となった今、あなたはその手記から手がかりを探すことにした。##手記には、その怪異の女を完全に止めることのできる儀式について詳細が書かれている。##手記に記された、起こり得る最悪の事態とは一体なんだろうか？
+The school is eerily quiet at this hour.|この時間の学校は気味悪いくらい静かだ。
+Your missing friend has left you a notebook.##If the rumors are true, to stop the TALL WOMAN WITH SCISSORS, you'll need to perform a ritual to force her material form to appear in our dimension.##Accomplishing this requires first the drawing of an eldritch sigil and then the lighting of holy candles.##You can only hope your friend has left them somewhere around the school.|行方不明となった友人があなたに手記を残していた。##噂が本当なら、ハサミを持った背の高い女を止めるには彼女の実態をこの世に具現化させる儀式を行わなければならない。##そのためには超越者の紋章を書き揃え、聖なる蝋燭を灯す必要がある。##友人がこの学校の何処かにそれらを残してくれていれば良いのだが……
+EXPLORE SCHOOL|学校を探索する
+PERFORM THE RITUAL|儀式を実行する
+CHECK OUT SCHOOL LOCKERS|ロッカーの調査
+Something evil stalks the empty  school corridors...|邪悪なナニかが学校の廊下を歩いている……|240
+You found an additional page from your friend's diary. It seems that the BLESSED CHALK was left in the pool.##You must hurry and find it!|友人が残した手記の新しいページが手に入った。聖なるチョークは学校のプールにあるようだ。##早く探さなければ！
+You found an additional page from your friend's diary. It seems that the BLESSED CHALK was left on the roof.##You must hurry and find it!|友人が残した手記の新しいページが手に入った。聖なるチョークは学校の屋上にあるようだ。##早く探さなければ！
+You shouldn't risk that again.|もう覗くべきではないだろう。
+#[TO OPEN THE DOOR, CLICK ON THE HANDLE AND DRAG THE MOUSE WITH THE MOUSE BUTTON PRESSED]|#[ドアを開けるにはクリックしながら取っ手を回してください]
+PEEK OUTSIDE|外を覗く
+BLESSED CHALK: not found#HOLY CANDLES: not found|祝福されたチョーク: 未発見#聖なる蝋燭: 未発見
+You feel like something horrible is happening within the school.##You must hurry and find those items!|学校で何か奇妙な事が起こりつつある。##早く儀式のためのアイテムを見つけなければ！
+BLESSED CHALK: found#HOLY CANDLES: not found|祝福されたチョーク: 発見#聖なる蝋燭: 未発見
+You've found BLESSED CHALK, which you can use to draw the sigil in your ritual.##You copy the sigil as best you can on the blackboard. Hopefully, it'll be enough.|あなたは儀式のための紋章を描くのに使える、祝福されたチョークを発見した。##あなたは可能な限り正確に紋章を黒板に書き写した。間違っている部分がないことを祈ろう…
+REDRAW SIGIL|紋章を描き直す|250
+The ritual is not ready.|儀式の準備はまだ整っていない。
+It should be correct now.|これで正しいはずだ。
+What was the design?|何を表しているのだろうか…
+The sound of scissors is getting louder.#You must hurry!|ハサミの音が段々と大きくなってきている。#急がなければ！
+BLESSED CHALK: found#HOLY CANDLES: found|祝福されたチョーク: 発見#聖なる蝋燭: 発見
+You've found the holy candles in your friend's backpack. You lit them as instructed by the notebook.##Everything is ready for the ritual...|あなたは友人の残したバックパックの中から、聖なる蝋燭を見つけた。友人の手記の記述通りの配置でそれらを灯す。##これで儀式の準備は全て整った…
+wait, what's that?...|待て、あれは何だ…?
+You take a step back as a writhing amorphous mass slowly takes shape.##Soon, it becomes a tall, woman-like creature with three faces, all connected by a wide smile.##Now it is your chance to fight and defeat this horror. It is also your only chance.|気味悪くうごめき、形をとりつつある姿を前にあなたはたまらず後ずさる。##またたく間にそれは、異様に背が高い女性のような化物の姿をとった。それらの三つの顔は一つの大きく裂けた笑顔で繋がってしまっている…##今がこの怪異を倒し、この世から封印するまたとない機会だろう。おそらくチャンスはこれ一度きりだ。
+The SIGIL and HOLY CANDLES don't seem to have any effect onthe horrible monster.#Had you drawn it wrong?##Frozen in fear, you watch as thetwitching horror gets closerand closer.##It raises its enormous scissors and croaks:##----aM I bEaUtIfUl?----|紋章と蝋燭がまるで効いていない。紋章を書き間違えてしまったのだろうか？##恐怖で体が動かない。小さく脈動する化物がどんどんどんどん近づいてくる。##ハサミを持ち上げ、君にギコギコした声で問う：##----わタし、キれい？----|259
+Inside a locker, you find a baseball bat.|ロッカーの中には野球用バットがあった。|260
+Feeling you might need it later, you decide to pick it up.|必要になりそうな予感がして、あなたはそれを持っていくことにした。
+You don't find anything useful.|特に役立ちそうなものは見つからなかった。
+Frozen in fear you watch as she gets closer. Her sharp scissors are slowly cutting through your cheeks as she asks you:##----aM I bEaUtIfUl?----##[SPINE-CHILLING STORY OF SCHOOL SCISSORS:#ENDING C]|彼女が段々と近づいてくるのを目にして、あなたは恐怖に凍りついた。鋭いハサミであなたの頬をゆっくりと切り裂きながら、彼女が問いかけてくる…##----ワたシ、きレい？----##[学校とハサミに関する恐怖:#エンディング C]
+Ancient horror lies dead on the classroom floor, slowly dissolving into nothingness. The only thing left of her are the large scissors.##You stare at them, unsure what to feel. Something tells you, you want to keep them.##You need them.##Very slowly, you pick up the scissors and your mouth widens in a smile...##[SPINE-CHILLING STORY OF SCHOOL SCISSORS:#ENDING B]|教室の床に化物の死体が倒れ、徐々に虚無へと消えていく。やがて残ったのは彼女の大きなハサミだけだった。##なんとも言えない気持ちでその大きな刃を見つめていると何かがあなたにささやく。このハサミが、欲しい。##このハサミは、必要だ。##ハサミをとてもゆっくりと持ち上げ、あなたの口元が大きな笑みに広がっていく…[学校とハサミに関する恐怖:#エンディング B]
+Ancient horror lies dead on the classroom floor, slowly dissolving into nothingness...##You find your friend, gravely wounded but alive. You help him and you limp away from the school as the police sirens get louder...##[SPINE-CHILLING STORY OF SCHOOL SCISSORS:#ENDING A]|教室の床に化物の死体が倒れ、徐々に虚無へと消えていく……##あなたは友人を発見した。重傷を負ってはいるが、生きている。あなたは彼に肩を貸し、よろめきながら校舎を後にする。パトカーのサイレンが段々と近づいているのが聞こえてきていた……##[学校とハサミに関する恐怖:#エンディング A]
+w-what's that?...|な-…なに?…
+LOCKER ROOM|ロッカールーム
+You need a TINY KEY to open this locker.|ロッカーを開けるために小さい鍵が必要です。
+You take a step back as a writhing amorphous mass slowly takes shape.##A pillar of heads is nearly reaching the high ceiling. Each face has the same expression of pure hatred. Each mouth screaming the same question...##----aM I bEaUtIfUl?----#----Am I BEAutiFuL?----#----AM i beAUtIFUl?----
+[Now it's your only chance to send this monstrosity away. Input the correct combination of BOWS and CLAPS to perform the banishment ritual]|270
+The first move was
+The second move was
+The third move was
+The fourth move was
+The fifth move was
+CORRECT! (+5 EXP)#
+WRONG! (-2 ALL)#
+You take a step back, praying that the banishment ritual was effective...##
+The eldritch horror is slowly moving towards you, seemingly unaffected by the ritual. When you were sure this is finally the end... you wake up in an ambulance.##The paramedic calmly explains that they found you collapsed in one of the classrooms. He shrugs when you ask him about the Scissor Woman and your friend. <<Probably just a heat stroke-induced hallucinations,>> he says, injecting your arm with a needle.
+The last thing you see before losing consciousness for the second time is the face of the paramedic...##two old scars visible on both his cheeks.##[SPINE-CHILLING STORY OF SCHOOL SCISSORS: ENDING D]|280
+Scissor woman is gone for good...#or is it? You shudder, knowing the urban legend will inspire another kid in another city to try and summon the eldritch being...
+A - SAVED FRIEND
+B - LEGEND CONTINUES
+C - SLIT MOUTH
+D - AMBULANCE RIDE
+WORRYING WRITE-UP OF A WORDLESS WARD|286
+WORRYING WRITE-UP OF A WORDLESS WARD##You've got a call from your classmate's mother.##With a teary voice, she told you your friend had a nasty accident and is currently awaiting an important surgery.
+They asked her to call you and ask to spend few evenings with them.##That's weird. ##You weren't exactly in the best relationship lately, but you agree to visit your friend, starting tonight.
+Your friend is lying on the bed, still sleeping after the surgery. Their face is almost completely covered in bandages.##You sit on what must be the most uncomfortable chair in the world, thinking how pointless it is to wait here. Having nothing else to do, you decide to go and buy something to drink from the vending machine.
+Your friend woke up earlier today. You've spent some time talking about school and recent events but still can't shake the feeling something about them seems _off_...##Finally, they go to sleep. You decide to take a walk to stretch your legs.|290
+<<Hey, your mom asked me to bring you this package>> you say, handing over the parcel.##When asked what's inside, they just stare at you...
+You decide it's better not to mention the curious package. Your friend doesn't ask about it, anyway.##There is something in the look of their eyes that makes you think that they... know.
+Your friend appears to be sleeping. You sit on the chair and start reading your notes.##Suddenly, you are startled to see their eyes open. For how long did they watch you, pretending to sleep?!#<<I've told my friends at the ward how good and kind you are... and they _all_ want to meet you.>>
+Your friend just keeps staring at you.##<<Did I tell you, you're really beautiful?>> they ask, twisting their swollen lips in a smile.
+<<Final phase of my surgery is tomorrow, I just can't wait to show you the results...>>##You can't help but shudder, thinking about the final day...
+You are shocked to find an empty bed! The parcel you've delivered lies unwrapped on the nightstand. Ignoring the faint footsteps on the corridor, you take a peek...##Inside, there's a torn price tag for a butcher's knife. The footsteps are getting louder!
+You are shocked to find an empty bed! The trail of blood on the floor leads to a bathroom. Ignoring the faint footsteps on the corridor, you take a step towards it...##The footsteps are getting louder!
+The next day passes without any incidents and before you know, another evening is coming.##With an increasing reluctance, you head towards the hospital...
+THE FIRST NIGHT
+THE SECOND NIGHT|300
+THE THIRD NIGHT
+THE FOURTH NIGHT
+THE FIFTH NIGHT
+THE FINAL NIGHT
+(five nights remaining)
+(four nights remaining)
+(three nights remaining)
+(two nights remaining)
+(one night remaining)
+(this is it)|310
+Your classmate is at the hospital, awaiting the surgery. Go and visit them tonight.
+The next day on your way home, you are stopped by your friend's mother. She hands you a package for her child.##You promise to hand it over tonight.
+Finally, it's the last night you have to spend with them!
+Where could your classmate be?
+Suddenly, all lights in the hospital go out.#With a bad feeling about this, you decide to check out your friend one last time and get the hell out of here...
+The patients here are getting restless. What's wrong with this place?
+avoid encounters using the HOSPITAL PASS
+You don't like the nurse's weird smile.#<<Patients waiting for a special surgery?>>#Take an elevator in the corridor.'
+ask about your classmate
+Using your HOSPITAL PASS, you manage to get to the third floor unbothered by anyone.|320
+<<DoN'T gO yEt!>>
+The person who tried to steal your life now lies on the hospital floor, dead. Mad, you keep smashing their face in until only a gory mess remains.
+When you come back to your senses, you stumble out of the hospital room and onto the dark corridor.##The doors to other rooms slowly begin to open, and you are reminded about what the crazed friend told the other patients about you.
+Out of every room reaches a bandaged head of a patient - their bruised faces eerily similar...##<<They all want to meet you...>>.
+[SURGERY]: who are you?
+A smiling nurse wakes you up.#<<This is your final day here, kid. Can't wait to finally get out, right?>>##Panicking, you get out of the hospital bed and rush to the mirror. 
+<<You had a nasty accident a week ago, you did.>>#The nurse continues, writing something on the discharge form.##<<A minor concussion and a few nasty bruises so we had to keep you here.>>#At first glance, everything seems to be fine. Sure, your face is slightly swollen and blue but that's to be expected.##Did you really have an accident and simply don't remember it? Y-yeah, that must be it. This weird friend must've been a nasty dream.
+But, as the nurse's smile gets wider and wider...###why won't your shoes fit you anymore?...
+A - HORROR WARD
+B - SUCCESSFUL SURGERY|330
+CHILLING CHRONICLE OF A CRIMSON CAPE|331
+CHILLING CHRONICLE OF A CRIMSON CAPE##A new game is spreading among your friends. A dare to stay in the unused school restroom after classes.##A dare to meet AKA MANTO.
+What was originally a harmless fun has turned deadly. The body of a boy was found last week.
+The school principal has banned the game, but that only made it more popular.##AKA MANTO must be stopped before another kid is killed. 
+THE MAN IN A RED CAPE
+gather GOSSIP about the current mystery
+You've heard some versions of the legend.#Everyone agrees you can't take anything the man offers you, though.
+<<...when AKA MANTO asks which paper do you want - you must refuse anything!>>
+RED CAPE
+A masked man dressed in a red coat, clearly too tall for the ceiling, emerges from outside.##<<tElL mE...>> His voice sounds like a faulty radio.#<<wOuLd YoU likE RED pApEr... Or BLUE PaPeR?>>|340
+<<RED paper>>
+<<BLUE paper>>
+[action unavailable]
+<<I don't want anything from you!>>
+Tall man in a red coat takes out a butcher's knife and stabs you in the stomach.#Blood splatters on the stall's wall as you rush to the door.#(-4 STAMINA)
+Tall man in a red coat grabs you by your neck and starts choking.#You kick him and rush to the door.#(-4 STAMINA)
+Tall man in a red coat suddenly freezes.##<<sO Be iI....>>
+it's getting darker...
+LEGEND, ALIVE
+You wait in the stall, trying to be as quiet as possible. Suddenly...#*squish, squeak*##The sound of rubber boots and an unknown liquid dripping on the tiles.#*squish, squeak*##You can see the top of his head. He's taller than any man you've ever seen.#*squish, squeak*##The door slowly opens...|350
+PREPARE YOURSELF
+CURSED TOILET
+...when you wake up, you find yourself back in the toilet stall. Thinking it was all a dream, you stand up, only to hear a crack from under your shoe.##There lies a broken crimson mask.##AKA MANTO might return one day, but now you know that ancient horrors -can- be defeated.##[CHILLING CHRONICLE OF A CRIMSON CAPE:#ENDING A]
+Blood flowing from wounds in tall man's red coat makes it look like the man was slowly melting.##You hear cackling coming from behind the mask and faint... and when you wake up, he's gone.##Somehow, you know he will be back in another stall, another school, another city, continuing the horror.##[CHILLING CHRONICLE OF A CRIMSON CAPE:#ENDING B]
+[MASK]: he left something behind
+One of your friends says he doesn't believe in curses, and he intends to complete the dangerous dare.
+You've reported it to your principal, who promises he will take care of it.
+With your friend safe for now, you should look into the legend.#Maybe records in the city's library make mention of AKA MANTO.
+You read a story about a vengeful samurai, known for wearing crimson red cape.
+It's an interesting find for sure but you need to find more infromation.|360
+One of the articles mentions a young doctor who performed life-saving surgery on a victim of a brutal assault.##The assault happened in a toilet stall..
+Maybe he still works at the hospital and can share some information?
+You learn that the doctor suddenly left the hospital after the latest murder, taking all of the records with him.#Why would he do that...?
+That's not the only bad news. Your friend didn't come to school today, and another body has supposedly been found.
+The principal has ordered the school to be closed down for the investigation.
+You break the window and get inside the school unnoticed.
+The cursed toilet is located on the third floor. Get over there!
+There is no turning back now.#You step into the last stall and close the door behind you...
+A - RED COAT (THING)
+B - RED COAT (MAN)|370
+FAR-OUT FABLE OF A FEAR FESTIVAL
+FAR-OUT FABLE OF A FEAR FESTIVAL##Your aunt had sent you a letter, inviting you for a curious-sounding festival.##It's held every 27 years in a small village.
+You don't like the sound of it but your parents both agree, you need a break from all the stress.
+Inside the letter, there's a bus ticket.##<<What's the worst thing that could happen?>> you ask yourself as you board the bus...
+INN
+Inn's room is dusty like it hasn't seen any visitors in years.#You wonder if anyone cleaned it since the last festival 27 years ago.##There's a folder of available activities lying on the table.
+<<Onsen sounds good.>>
+relax a bit
+[action unavailable]
+check out the painting|380
+Wait, what's that?
+You freeze in terror as something moves on the painting. There is a hole in it!##Are you being spied from the nearby room?#(-2 REASON)
+You patch up your wounds and enjoy the nature.#(+1 REASON and STAMINA)
+Hot spring feels great. Finally, you can relax for a bit and enjoy the warm water.#(+2 STAMINA)
+There's still some time before the festival starts ##The locals are seemingly busy setting up stands and decorating the place.##Few stands are already open but you can't shake off the feeling, something is wrong. ##It's getting late.
+EXPLORE THE WEIRD VILLAGE#[advances the clock]
+CHECK OUT THE INN (YOUR ROOM)#[free action]
+SKIP TIME#[advances the clock]
+Your group has arrived in the village and is currently unpacking at the inn, giving you some time to explore.#Festival begins at evening.
+DAY ONE|390
+MORNING
+ENJOY THE FESTIVAL#[free action]
+CHECK OUT THE INN (STAFF-ONLY AREA)#[advances the clock]
+FOLLOW THE VILLAGE MAP#[free action]
+TOO LATE
+You were not the only one trying to stop the ritual and save your friends. Special forces have raided the occult hideout, arresting the suspects. Led outside, the handcuffed cult leader suddenly stops.##<<You are too late>> they say in a raspy voice.#<<Our lord is free once more!>>#(-2 STAMINA)##[FAR-OUT FABLE OF A FEAR FESTIVAL:#ENDING B]
+You've rested a bit.
+...but should you be resting at all?
+Festival grounds is now open for visitors. Maybe you should check it out?
+Festival grounds is now open for visitors. Maybe you should check it out?|400
+EVENING
+NIGHT
+EXPLORE FOREST
+To progress this mystery, choose actions that will advance the clock.#As you learn about the terrible secret of this village, more actions will unlock.
+Weird sounds coming from the forest kept you up at night. What could it all mean?
+Weird sounds coming from the forest kept you up at night. What could it all mean?
+Something is watching you from behind the trees.
+Villagers seem to follow your every step here.
+Weird sounds coming from the forest kept you up at night. What could it all mean?
+Why is it so quiet all the sudden?|410
+EXPLORE FESTIVAL
+actions until sunrise
+action until sunrise
+sunrise
+i-is that blood?...###Where is everybody?
+REST AT CAMP
+ENTER OVERGROWN FACTORY
+An abandoned factory! This must be the place they took everyone!
+You start to recognize some of the paths and rocks you've seen earlier.
+Are you walking in circles?|420
+Blood trails lead deeper into the forest, what exactly happened and where are all the people?
+look for friends
+enjoy festival
+buy souvenirs
+go back
+help your friend
+decline
+leave
+You stumble into your friend,
+You couldn't find any familiar faces in the crowd...|430
+<<Hey, can you borrow me 1 FUNDS? I _really_ want to buy that item...>>#(-1 FUNDS if agreed)
+<<Hey, can you spare some time with me?>>#(+4% DOOM if agreed)
+I need to move some stuff, can you help?>>#(-3 STAMINA if agreed)
+<<Hey, I'm trying to solve a puzzle, can you help?>>#(-3 REASON if agreed)
+You're not ready to go there yet....
+You've rested a bit.
+STAMINA
+...but should you be resting at all?
+The sun is slowly rising as you get closer to the abandoned industrial building.##Cautiously entering the factory you can't help but notice the forest got totally silent...
+With a loud bang the ancient horror disappears and the high priest falls to the floor, grabbing their shoulder.##The last thing you see before blacking out are the beams of flashlights and a hand of a police officer saving you from fall.#---##Later that day, detectives interrogating you are confused when you tell them about the ritual, blood and eldritch being.##Village is abandoned, with no trace of blood anywhere. You were the only one seeing the ancient horror.##[FAR-OUT FABLE OF A FEAR FESTIVAL:#ENDING A]|440
+While exploring the factory, you are caught by masked people you've seen from inn's window.##Tied up, they bring you to the CULT LEADER.##<<We knew you'd come>> you hear a raspy voice - your aunt's voice! - coming from behind the priest's weird mask.#She signals towards door behind him.#<<Our MASTER is waiting for a final blood sacrifice.>>
+STRUGGLE
+CAPTURED!
+While you couldn't catch the leader of the cult to interrogate them, the people are safe.##You board the old bus, wondering what would happen if you didn't stop the ritual in time...
+Later that day, after an interrogation, detectives let you go free. Festival guests are still missing to this day.##You board the old bus, wondering what exactly happened out there...
+Everything happens in an instant. The chanting cultist suddenly falls to the ground as everything around you starts to shake and crumble.#Many members of the cult die crushed by the concrete debris.##You are lucky to avoid their fate and escape the factory building.
+You board the old bus still clutching the hood of the chanting cultist, wondering what exactly happened out there...##[FAR-OUT FABLE OF A FEAR FESTIVAL:#ENDING C]
+[RITUAL]: the being wants more
+You have found your friend and they join you!
+You didn't find anyone you know.|450
+DAY ONE - ARRIVAL
+[TODAY'S GOAL: EXPLORE THE WEIRD VILLAGE]##Just when you thought your stomach couldn't handle it anymore, the janky old bus stops at its destination...
+You get up and take a deep breath before looking around.#It's a small village and the nearby fields are surrounded by a thick forest.
+A fat man wearing dusty overalls approaches you.#It's the INN OWNER, who promised to pick you up. Following close behind him, your eyes are drawn to his hands, which are so deformed they resemble claws more than hands...
+...SOMEONE IS WAITING FOR YOU?
+DAY TWO
+[TODAY'S GOAL: LEARN MORE ABOUT THE FESTIVAL ITSELF]##A weird sound wakes you up. You step closer to the window and look out. You can't see anything and get ready to go back to bed when suddenly, the moon comes from behind the thick clouds.
+Three hooded figures are standing at the forest's edge.#One by one, they light their torches and disappear behind the trees...##What was that about?
+They all wore strange masks. Should you follow them into the forest or try to find more information about the festival?
+...WHO ARE THEY?|460
+DAY THREE
+[TODAY'S GOAL: ???]##Going back to the inn you overhear two masked villagers.##They are talking about -something- awakening up at the next dawn.
+You wonder what's up with that.
+You decide to block entrance to your room with a nightstand.#Festival is ending tomorrow and you can't be too careful.
+IT'S NOT SAFE HERE
+NIGHT FREE
+[TODAY'S GOAL: FIND THE MISSING PEOPLE]##Trail of blood and sickly-smelling sludge leads to an outskirt of the village. Somewhere in the dark forest, there's an answer waiting for you...
+A - POLICE RAID
+B - TOO LATE
+C - THE RITUAL|470
+PERILOUS PARABLE OF THE PECULIAR PAINTING
+PERILOUS PARABLE OF PECULIAR PAINTING##A damp-looking letter  addressed to you arrived  this morning.##MAMIYA ICHIRO, a famous painter you were once a huge fan of, has replied to a message you sent him last summer.
+He thanked you for the letter and invited you to his mansion.##You were going to witness the creation of his 'true masterpiece', he wrote.
+Just how could you decline?...
+You've finally arrived at the mansion's gate.
+You are afraid you will never be able to remove the lingering musty smell of wetlands from your clothes.
+Now... where is everyone?
+You continue your search.
+While walking through the empty mansion you can hear something rustling in the bushes behind the building...
+Crouching next to a moss-covered stone is a woman.##<<Hello?...>>|480
+<<Are you here for ICHIRO-san's showcase of the newest painting?>>
+<<...ah, where are my manners? My name is EIMI and I'm a curator working for the art gallery in SHIOKAWA>>
+EIMI smiles.##<<ICHIRO-san is somewhere in the mansion, I'm sure.>>
+<<I'd help you look for him but I want to catalog _these_>> she says pointing at the rock.
+<<The ritualistic marking are unique to this region, I've been told...>>
+You hear the sound of glass breaking somehwere in the mansion...
+There are countless paintings hanged on the walls of this mansion.
+All of them show alien landscapes and weird humanoids dancing around in circles.
+You don't recognize any of them but the technique used is unmistakable.##ICHIRO-san painted these.
+A closed door prevents you from venturing further into the mansion.|490
+You wonder, if you could find a key nearby?
+Finally, you find a key in one of the desk drawers.
+You head towards the private rooms, hoping to find the painter himself.
+You must grab EIMI who almost faints at the sight of the room you both enter.##Every visible surface is covered in obscene paintings and grotesque monster faces.
+ICHIRO-san sits alone in front of an empty canvas.
+ICHIRO-san smiles when he notices you two.#<Ah! My biggest fan and miss EIMI is here!>>##He stands up and comes closer, looking at you from behind his dark glasses.
+<<Would you please be kind and wait at the foyer? I need miss EIMI to help me with the lastest painting...>>##EIMI looks at you surprised but doesn't say anything.
+Something doesn't feel right here...
+When you re-enter the room, EIMI is nowhere do be seen.
+ICHIRO-san smiles and thanks you for your patience.|500
+Before you can say anything, he steps aside, showing you his greatest work...
+Every visible surface of the room you enter is covered in obscene paintings and grotesque monster faces.
+In the middle of the room, you spot ICHIRO-san, repeatedly stabbing EIMI and splattering her blood over an empty canvas.
+ICHIRO-san smiles when he notices you.#<Ah! My biggest fan! I can't let you know my secret!
+No! You can't leave EIMI with that creepy man, no matter how famous he is!
+You quickly go back to the room and gasp! ICHIRO-san prepares to stab unconscious EIMI!
+ICHIRO-san looks at you and smiles.##<<You can't stop my work now...>>
+(move the mouse to look around the room)
+You crouch down and press your head against the locked door, trying to see anything through the keyhole.##It's so dark you can barely make out shapes. You'll have to find a way to turn the lights on.
+PRIVATE ROOMS|510
+BOARDED-UP BUILDING
+WORKSHED
+PAINTING STUDIO
+FOREST
+MANSION FOYER
+MAMIYA MANSION
+You should stick together in this weird mansion...
+(EIMI is here)
+(advances the mystery / EIMI is here)
+(advances the mystery)|520
+EIMI continues to catalog the art.
+EIMI: <<Thanks for staying with me.>>
+THE DARK WORKSHED
+At some distance from the main building there's an old workshed. Even though the surrounding is now overgrown, in its heyday, it must've been used to store the gardening equipment.##Inside, it's really dark and you don't have the time to search this place closely.
+grab a flashlight
+use your own light source
+[needs a light source]
+You find a tool kit by the door. Flashlight seems like the best choice but a sudden crash coming from the mansion prevents you from investigating the workshed.#(+ITEM)
+Using your flashlight you manage to get a better look inside.#In the corner you find something _really_ promising.#(+ITEM)
+You've managed to finally defeat the horrible eldritch being and destroy the canvas it used as a portal.|530
+Feeling it won't stop it, you and EIMI both take your time and burn every painting in the mansion.
+Hopefully, ICHIRO-san's legacy will soon be forgotten.
+At first, you can't even tell what you're looking at.##ICHIRO-san's smile gets wider when it finally hits you.###<<My greatest work, the ultimate painting...>>
+It's impossible! How could he paint it so fast and where is EIMI? The details are so life-like...
+ISHIRO-san covers the painitng with a piece of cloth before handing it to you.##<<I would like you, my greatest fan, to have this painting as a memory of our meeting.>>
+The silent scream of EIMI having her head crushed by a monstrous beast will haunt you forever but it's an offer you can't refuse...
+As you rush to save EIMI, you notice something terrifying.##All grotesque painted monsters begin to... leave their canvases!
+You can't do anything but stare as they grab both corpses and begin devouring them!
+In a last-ditch attempt, you knock over a lamp, setting the room on fire.
+ICHIRO-san's greatest creations can never see the light of the day.|540
+[painting]: his greatest work, done
+[painting]: his greatest work, defeated
+[painting]: his greatest work, destroyed
+A - DOOMED ARTIST
+B - GRAND VERNISSAGE
+C - SHOW MUST GO ON
+EERIE EPISODE OF EVOLVING EELS|547
+EERIE EPISODE OF EVOLVING EELS##While returning to your home, someone suddenly bumps into you...##<<Did you know...>> You turn around. It's your friend living in the same apartment complex, KANA.##<<..that weird dude is back - you know, the one who studies fish?>>
+You shrug, opening the door. KANA follows and immediately enters the kitchen. A while later she returns with two cans of soda.##<<Aren't you curious, what weird fish did he bring this time?>> she grins.
+we must puncture her eye now! (-3 REASON)|550
+(How can she sip her soda so calmly, staring at this creepy creature?)
+(You spend an entire day waiting for KANA. Where the hell is she??)
+You shrug, opening the door. KANA follows and immediately enters the kitchen. A while later he returns with two cans of soda.##<<Aren't you curious, what weird fish did he bring this time?>> he grins.
+we must puncture his eye now! (-3 REASON)
+(How can he sip his soda so calmly, staring at this creepy creature?)
+(You spend an entire day waiting for KANA. Where the hell is he??)
+You shrug, opening the door. KANA follows and immediately enters the kitchen. A while later they return with two cans of soda.##<<Aren't you curious, what weird fish did he bring this time?>> they grin.
+we must puncture their eye now! (-3 REASON)
+(How can they sip their soda so calmly, staring at this creepy creature?)
+(You spend an entire day waiting for KANA. Where the hell are they??)|560
+ICHTYOLOGY
+Investigate the SEASIDE location twice to complete this quest.
+You may be going crazy, but you can swear something is watching you from the sea.#(-1 REASON)
+NEIGHBOR'S APARTMENT
+bathroom
+bedroom
+ESCAPE!
+NEIGHBOR'S BATHROOM
+NEIGHBOR'S KITCHEN
+You cautiously enter your neighbor's kitchen. You are shocked to see countless jars filled with eels, flailing around restlessly.#Where the hell is KANA?|570
+return to kitchen
+A swollen body of your neighbor is rotting away inside putrid murky water.##Both his eyes are missing with countless tiny blood trails leading from them in all directions.#(-1 REASON /-1 STAMINA)
+NEIGHBOR'S BEDROOM
+You finally find KANA...
+we must go to a hospital!
+<<I-I found the neighbor b-but when his eye burst I slipped on the blood and lost consciousness...#I'm afraid there's something in my own eye now too!..>>
+You still process the events of the previous night. Corpse-eating eels that lay their eggs in eyes?##Sitting with your friend KANA before your apartment building you watch the police officers emptying your neighbor's place.##[EERIE EPISODE OF EVOLVING EELS:#ENDING A]
+You still process the events of a previous night. Corpse-eating eels that lay their eggs in eyes?##Sitting before your apartment building you watch the police officers emptying your neighbor's place. You wonder if you will ever hear from your friend again.##[EERIE EPISODE OF EVOLVING EELS:#ENDING B]
+You run like a coward from your neighbor's place. The next morning, police officers are emptying your neighbor's place. ##They didn't find KANA. Will you ever hear fromyour friend again?##[EERIE EPISODE OF EVOLVING EELS:#ENDING C]
+OPHTHALMOLOGY (I)|580
+You rush to the hospital with KANA, getting a lot of attention from horrified people.##Your friend is taken immediately to the operating theater and you collapse on a chair in the waiting area...
+FALL ASLEEP
+OPHTHALMOLOGY (II)
+<<Wake up, dude. You've beensleeping for over 3 hours!>>####You groggily open your eyes to see your friend.#KANA is wearing an eye patch.##<<Not so pretty anymore, eh? I couldn't exactly tell the doctors the truth about what happened and I'm pretty sure I won't be winking with my left eye anytime soon...##...but thank you for saving my life.>>
+OPHTHALMOLOGY (III)
+When you wake up, it's already night.#Trying to ask about your friend, you are met with weird reactions. As if she never existed...##You rush to the operating theater yourself but are stopped by armed policemen!##Whatever happened, the doctors must've been too late to help...
+Shocked, you see countless tiny eels crawling out of your friend's eye in all directions!
+Would KANA even survive the blood loss?!
+KANA:#<<I saw the creepy neighbor carrying some jars inside his apartment.#I wonder... what weird fish did he find this time?>>
+<<Will you check it out?#He will _surely_ recognize me, if I try to do it myself...>>##please?|590
+KANA:#<<Dude's working at school, right? We could break into his office!##What do you mean 'we shouldn't'?>>
+It must be empty, because he just came back and his classes begin next week!
+KANA:#<<Have you ever seen an eel like this?##It's so freaky! Don't you have a feeling, it's watching us?>>
+The neighbor's office at school was empty.##You did find a few jars, all filled with weird eel-like fish. Despite your protests, Kana decides to take one jar home...
+KANA:#<<I've seen him burning some notes behind our apartment building.##Let's go and check it out!>>
+(Is this eel even alive?...)
+KANA:#<<That's so weird... your neighbor really was into eels, it seems...>>
+(You begin to wonder if spying on your neighbor was a good idea to begin with...)
+KANA was right, someone tried to burn some papers. They must've been in a hurry because some of the papers look salvageable.##You both return to your apartment and try to decipher the notes... 
+KANA:#<<There must be something more we can learn. I'll try to break into his apartment tomorrow morning.##I wonder what he's hiding in there?...>>|600
+(You shrug noncommittally. You just wish, you could throw this damned jar into trash.)
+Thinking about how stupid it is of KANA to try and break into your neighbor's apartment, you go to sleep...
+(KANA has been missing since yesterday, you decide to check out the neighbor's apartment yourself.)
+A - EYE SURGERY
+B - MISSING FRIEND
+C - LEFT BEHIND|606
+ROTTEN REPORT OF A RANCID RAMEN|607
+ROTTEN REPORTOF A RANCID RAMEN##Out of thin air a brand new ramen restaurant opens in town. #It’s adored by everyone!
+Once people take a bite they can’t stop. Day and night the queues stretch out the door.##The shambling customers stuff themselves dish after dish, while the blind owner sits silently behind the counter, grinning and polishing his gleaming knives.
+You are determined to discover what makes this ramen so enticing. What is its true power? #Dog meat?.. Human meat?..##Flesh of the gods themselves?...|610
+DUMPSTER DIVE
+Discard two item cards to complete this quest.
+You sneak into the alley at the dead of night. Gagging, you look inside the restaurant waste. #It’s a vile pulp, a few chunks of meat look like promising samples, though.
+LAB
+Watching the local news, you spot a familiar street.##It's a feature about the newest ramen shop.
+The food critic has a manic look as he describes the ramen.##His description makes your stomach churn.
+You can see the restaurant through the staircase's window.##You watch the door for hours but never see any of the cooks enter nor leave.
+The only true way to investigate is to get into the restaurant yourself.
+It seems that you were not the only one wanting to try for yourself...
+You stand in line for hours. Your questions fall on deaf ears and you’re shunned.|620
+The smell around the restaurant is overpowering. Grease, rot and...##is that blood you can smell?
+It's finally your turn to order!
+<<One ramen please.>>##The owner's grin widens.
+The red bowl is pushed in your face. It’s so crowded that you’re forced to sit on the floor.
+With a slick hand you fill a vial with the soup and walk out, without tasting the weird dish.
+A week later police and an official stand where the ramen restaurant used to be. Nothing remains but a gap in the street and aimless confused customers.
+You’d like to believe that was the end of it, but snippets in newspapers from other cities unsettle you. Brief articles, about an exciting new ramen restaurant opening and its mysterious owner, keep showing up.##You can no longer eat noodles without feeling ill.##[ROTTEN REPORT OF RANCID RAMEN:#ENDING B]
+Prepared for a fight you march down to the restaurant. However you find no eldritch horror to duel.##Instead you're shocked to find nothing but a gap in the street. You ignore the distraught customers, still lining up where they remember the entrance...
+Investigating the grounds you see something glisten where the kitchen used to be.#Cautiously you look at the chunk of meat, and then jump back with a yell. As it flexes, it opens a weary eye, grins and wanders off on stubby black claws.##You walk home shaken, in your head you hear the weird ramen breathing in its bowl.#You only stop to throw up on the street.##[ROTTEN REPORT OF RANCID RAMEN:#ENDING A]
+LAB RESULTS (PARTIAL)|630
+A mere day later, your friend rings your door. Her face is pale and in a shaky hand, she holds an analysis sheet. You usher her in and bolt the door.##You feel ill looking at the charts.#While they couldn't identify some of the particles, they did discover highly addictive drug in the broth.##The ramen restaurant must be closed immediately!
+LAB RESULTS (FULL)
+You look at the charts and cannot believe your eyes. While the standard test didn't detect anything weird, adding drops of human blood revealed something horrible. Whatever this thing is made of, it's alive - beating a soft pulse against the glass.##Your friend leaves you with the papers, muttering an excuse and preparing to flee town on the next train.
+LAB RESULTS
+With the pulling of some delicate strings you get the ramen into a lab.##While handing over the gathered material you hesitate. What should you send to the laboratory?
+JUST THE VIAL OF RAMEN SOUP
+VIAL + MEAT
+A - LAB RESULTS (FULL)
+B - LAB RESULTS (PARTIAL)
+C - ??|640
+VICIOUS VERSES OF A VIOLENT VIGIL
+VICIOUS VERSES OF A VIOLENT VIGIL##You've received an official-looking letter. What does a law firm from Tokyo want from you?...
+'We regret to inform you of the passing of our client and your grand-uncle.##His funeral will be preceded by an overnight vigil as per the client's request.'
+There's an address and the list of people expected to arrive. You don't recognize any of the names...##Intrigued, you decide to check it out yourself, what's the worst thing that could happen?
+conclude the ritual
+[you are here]
+carve the symbol
+check out the supper
+light up the fireplace
+who's that?...|650
+carve the cursed symbol
+burn the envelope
+open the envelope
+cut the plant down
+feed the plant
+(strength check: passed)#The smell is nauseating but you put some meat on your plate.#(+ITEM)
+(strength check: failed)#The smell is nauseating it almost makes you sick!#(-1 STAMINA)
+(perception check: passed)#You spot some dry firewood and add it to the fireplace.#(+1 REASON)
+(perception check: failed)#You couldn't find any firewood to add to the fireplace.#(-1 STAMINA)
+You've already copied the tattoo.|660
+It takes you some time, but you finally find an envelope. Following the instruction, you burn it without opening. You feel weird following obscure orders...#(-1 REASON)
+You cut your hand and pour some blood on the soil. Hopefully that's enough... (-1 STAMINA)
+You clap...
+You think you got the order right...
+Did you get the order right?...
+You've prayed enough
+Inside the wardrobe, you find a meat cleaver...
+The wardrobe is empty.
+An unseen force leads your hands...#You reach for a knife and stab a surprised guest!
+You bow...|670
+You open the envelope. Your mind gets flooded with knowledge!#It was a good decision... right?#(+SPELL)
+You cut down the blood-thristy plant!#It was a good decision... right?#(-3% DOOM)
+EXPLORE MANSION
+[from CORRIDOR only]
+master bedroom
+dilapidated corridor
+[where are you]
+storage room
+study
+damp cellar|680
+room6
+damp cellar
+burn an envelope found in the study
+feed the plant in the study with blood
+AVAILABLE#ACTIONS ->
+[8pm / 9 hours until dawn]
+[9pm / 8 hours until dawn]
+[10pm / 7 hours until dawn]
+kiLl tHem
+KilL ThEm|690
+kIll thEM
+KiLL THem
+You shudder instantly recognizing the room from a newspaper photo.##Three years ago, a man hanged himself here...##Why is a vigil held in a place like this?
+[11pm / 6 hours until dawn]
+[12am / 5 hours until dawn]
+[1am / 4 hours until dawn]
+[2am / 3 hours until dawn]
+[3am / 2 hours until dawn]
+[4am / 1 hour until dawn]
+[5am]|700
+As the vigil is nearing its end, the whole mansionshakes more and more until the walls starts to collapse, revealing the shocking truth about your whereabouts...
+Following the directions from the letter, you slowly fight your way through the overgrown forest path.##The old mansion looks like it was torn down and rebuilt many times, but...#where is everybody?
+[tip: EXPLORE MANSION action will unlock new locations and progress this mystery]
+THE ARRIVAL AT THE MANSION
+MASTER BEDROOM
+STORAGE ROOM
+check the wardrobe
+clap
+bow
+Pressing a handkerchief to your nose, you enter the dark room...##There's no way they allowed your grand-uncle to just lie here!|710
+The body...##It's missing....
+What was the correct bow and clap order? Maybe other guests will know?
+inspect his foot
+There's a weird symbol tattooed on man's toe.
+You copy it onto your pamphlet.
+It seems, that someone has already removed all the furniture from this room.##The overgrown plant is casting an unsettling shadow...
+OVERGROWN STUDY
+sacrifice the guest
+aaa
+It takes you some time, but finally, you manage to find someone. Is that another guest? You should ask them what's going on in here.|720
+[four actions on the right allow you to investigate the location and interact with it]
+As you return to the corridor, you notice another family member has arrived.
+You notice all guests are studying small cards, you should ask them about it.
+All family members are cautiously eyeing the smelly dishes placed on a table in the corner of the room.
+All family members are gathered near the fireplace. You can tell everyone is waiting for the dawn.
+It's midnight. You should go and pray
+W-where is everybody?...
+You manage to find one of the guests. They are shaken, but otherwise safe. You both decide to get the hell out of this place but...##the door is gone.
+Corridors twist and turn,trapping you in this mansion.##You think you can hear the other guest somewhere but should you risk getting lost yourself?
+The other guest is now safe with you. The whole building cracks and moves.##You're scared of what will come next...|730
+Walls of the corridor collapse revealing an alien landscape. You can taste blood in your mouth as the slimy appendages slowly get closer.
+DILAPIDATED CORRIDOR
+The guests seem strangely uninteresed in this vigil. You should explore more and learn what you can.
+A voice in your head tells you what to do...
+AKANE, YOUNG HEIRESS
+Young woman wrinkles her nose when she notices you.##You can swear you've seen the symbol engraved on her necklace before...
+<<If you want to pay respects to that old creep, follow the corridor to the right.>>
+<<You didn't get this with a letter? Here, take mine.>>
+<<Let's not pretend like we want to be here.>>
+HAWADO, WEIRD FICTION WRITER|740
+A pair is standing next to a window. The man is muttering something to himself while his wife is observing you with her unnaturally bulgy eyes...
+<<The body is laid in the master bedroom. You should pay him your respects.>>
+<<...this reminds me of one of my books...>>
+SOTOMURA, SCARRED THUG
+A muscular man is eyeing you as you take a step towards him. You can't help but notice a deep scar going across his cheek.
+<<Old man's body is in the master bedroom. Go there if you want.>>
+Sotomura nervously scratches his scar...
+DEATH, CHEATED (A)
+<<tHe pRicE... iS pAid...>>##A voice booms in your head as everything gets dark... When you wake up, you find  yourself lying on the wet grass, the old mansion nowhere to be seen. Standing next to you is a naked, bloated old man.##You recognize a tattoo on the man's toe. It's your deceased grand-uncle!
+NEW DAWN I|750
+<<tHe coNtrAct... iS voId...>>##a voice booms in your head as everything gets dark... When you wake up, you find yourself lying on the grass, an old mansion nowhere to be seen.#Next to you are the other guests, as confused as you. Everything feels like a bad dream, was the man claiming to be your grand-uncle really trying to cheat death itself?
+NEW DAWN II
+<<tHe coNtrAct... iS voId...>>##a voice booms in your head as everything gets dark... When you wake up, you find yourself lying on the grass, an old mansion nowhere to be seen. Next to you are the bodies of killed guests. Your head spins. Everything feels like a bad dream, was the man claiming to be your grand-uncle really trying to cheat death itself?##You've somehow stopped the ritual but with your clothes covered in blood, you'll have a lot of explaining to do...
+DEATH, CHEATED (B)
+With a coarse voice, he explains the ritual. You try to keep up with him but you're weak and your head spins.##<<...the death toll must remain the same... two die and two survive...>>##You feel like vomiting as the old man who has cheated death disappears behind trees. Everything gets dark...
+THANK YOU FOR PLAYING
+You and the other family members finally exit the forest and leave the nightmare of it behind.##One thing is certain, though. You will never open letters from law firms from Tokyo.##[VICIOUS VERSION OF A VIOLENT VIGIL:#ENDING A]
+As you walk through the forest, you are trying your best to clean yourself from the blood and forget the nightmares you left behind.##One thing is certain, though. You will never open letters from law firms from Tokyo.##[VICIOUS VERSION OF A VIOLENT VIGIL:#ENDING B]
+The man who you thought was your uncle has cheated death, making you an accessory to murders.##You know police officers won't believe you when you tell them the truth and do your best to forget the nightmares you left behind.##[VICIOUS VERSION OF A VIOLENT VIGIL:#ENDING C]
+A - NEW DAWN|760
+B - SOAKED IN BLOOD
+C - DEATH, CHEATED
+BIZARRE BRUIT OF THE BLOOD-CURDLING BOTANIST|763
+BIZARRE BRUIT OF THE BLOOD-CURDLING BOTANIST##Your neighbor asked you to help.#Her husband, SHIRO-SAN has gone missing. She is worried it might be connected with the new fertilizer he ordered from Tokyo.
+Where is he and why would he need so much fertilizer?
+What's up with the forest lately? I feel... watched.
+MYCOLOGY MANIAC 
+Investigate the SCHOOL location twice to complete this quest.
+(...) a new yet-undefined species of the Cordyceps fungus has been observed to infect rats, taking over their bodies. Could it have the same effect with other mammals?...
+OVERGROWN MANSION|770
+You’ve got a business card of a gardening company where the missing man was working. Maybe some of his colleagues could tell you anything useful?
+<<SHIRO-SAN has always been a weirdo but he was good at what he did. Last month, he ordered a pack of an experimental fungicide from Tokyo.>>
+<<I think I’ve seen the dispatch order with address somewhere,>> the old man says.#<<Help me move this dirt and I’ll look for it.>>
+While the dispatch order is stained with a foul-smelling liquid, you think you can make out the address - at least parts of it. The house is somewhere in the nearby forest.
+It’s dark. You don’t remember the trees growing so close to each other.
+The dirt road looks promising but it branches in two different directions, which one is the correct one?
+The dirt road you've been following suddenly ends. You have to go back...
+You stumble upon a half-eaten deer carcass.
+You stand over the gardener’s body, trying to stop the blood gushing from your arm. No one should know about SHIRO-SAN’s discovery and the weird fungus. You break into the minivan and dump the flammable fungicide bottles inside the building and set it on fire.
+Hoping that the flames will consume the morbid secrets, you walk away…##[BIZARRE BRUIT OF THE BLOOD-CURDLING BOTANIST:#ENDING A]|780
+The fungus dies, and with it, the gardener. With no body to grow from, you hope that’s the end of it. You finally understood something. The plants weren’t attacking you; they were protecting you from the unnatural form of life.
+Weakened, you stumble out of the mansion, hoping to forget...##[BIZARRE BRUIT OF THE BLOOD-CURDLING BOTANIST:#ENDING B]
+Plants continue to attack you as you and the gardener flee from the forest only to suddenly stop when you reach the city limits. You manage to call an ambulance from a phone booth but lose consciousness before it arrives. You wake up in a hospital, your wounds treated.
+When asked about SHIRO-SAN, the doctors are puzzled - you were the only person they found. The gardener is missing to this day.##[BIZARRE BRUIT OF THE BLOOD-CURDLING BOTANIST:#ENDING C]
+Vines whip you, covering your exposed skin in deep lacerations. You cry in pain, dropping the body of SHIRO-SAN. There's no way you'll be able to save him. With heavy heart, you run, leaving the man you were supposed to protect behind...##[BIZARRE BRUIT OF THE BLOOD-CURDLING BOTANIST:#ENDING D]
+OVERGROWN MANSION (I)
+Finally, after what felt like hours of following the dirt road, you find the old mansion. It’s completely overgrown with plants you’ve never seen before. In front of the mansion, there’s the gardening company minivan filled with boxes. ##Slowly, you enter the building with caution…
+OVERGROWN MANSION (II)
+You stand in the middle of the room when suddenly the floor gives up and you fall down to the basement...
+[LEFT BEHIND]: +3% DOOM|790
+A - CLEANSED WITH FIRE
+B - FUNGICIDE
+C - STILL MISSING
+D - LACERATIONS|794
+BLOODY BRIEF OF A BECKONING BULLETIN|795
+BLOODY BRIEF OF A BECKONING BULLETIN##As the decades roll on, technology has only developed further.##These days, computer bulletin board software allows computers to communicate over phone lines.
+All it takes is a computer and a modem, and anybody can connect to a bulletin system, or even host one of their own.##Once you connect, you can read all of the messages on that bulletin, and even post your own to start a conversation.
+Many use them to share files, or to chat about their favorite topics - everything from video games, to sports, to idol culture.##But in the wake of a sudden string of weird suicides, things aren't all fun and games.
+Rumors have surfaced that the deaths are linked to a bulletin system operated from somewhere within Shiokawa.##What is behind the suicides? How could so many people all be driven to take their own lives?...
+have you heard about that bulletin? ...oh, nevermind.|800
+FOREST SUICIDES
+Investigate the FOREST location twice to complete this quest.
+After searching deep in the woods for some time, you discover the body of a young student clutching a note.#(+ITEM)
+(on screen): 'welcome home, do you like it?'#'yes'     'no'
+COMPUTER
+Even if the rumored bulletin system's phone number is found, there is no hope to investigate without a computer that can connect to it.
+Maybe the school library has one that will work?
+While the school library's computer doesn't have a modem, you happened to bump into a member of the computer club while asking around.
+She apparently just got a new system and is willing to let you borrow hers. Thanking her, you arrange to meet at her home in the city.
+You lug the cardboard box full of PC parts up your apartment stairs, teeth clenched as you heave it up one step at a time.|810
+God damn are computers heavy.
+You wipe the sweat from your brow as you finally finish setting up the computer in your bedroom. After a few tests, you're now certain that everything is functional.
+The newscaster on the TV says that the suicide rate is still climbing. Worse, the morbid trend is beginning to catch on in other nearby towns. You need to act quickly!
+Hoping to find a lead, you head to the hospital. With how many deaths there have been, the hospital is in chaos. The staff looks exhausted.
+When the receptionist lets her head down onto the desk for a minute, you slip out of the waiting room and into the hospital corridors.
+You overhear two nurses talking about a girl whose suicide attempt failed. Apparently, she's recovering at her grandparents' home at the village in the city outskirts.
+You exit the hospital and make your way to the nearest bus stop.
+As you pull into the village bus stop, a news story comes on the bus driver's radio. An entire class of Shiokawa students leapt in front of a train, hand in hand.
+You move urgently as you exit the bus and begin searching down the village streets.
+When you find the girl's house, her grandparents greet you solemnly. They thank you for your effort to stop the deaths.|820
+<<Forgive her>> her grandfather says as he leads you to her bedroom.##<<She's a kind girl... Something has happened to her.>>
+The recovering girl is more than happy to not only confirm the bulletin's existence, but to give you its number. 'You have to do what it tells you! Trust me, you won't regret a thing.' ##She beams at you as her grandmother struggles to make her swallow the pain medication.
+<<I'll be back to join you all soon. Wait for me, okay?>>##Disquieted, you give the grandparents your phone number and hastily leave.
+As soon as you arrive home, you dial the number and put the handset onto the modem.
+Your heart pounds as the computer fans exhale. The system hums. You hear a brief dial tone, and then it finally connects...
+I'm glad.
+Take your phone off the modem, and put it to your ear.
+It's okay,
+You don't have to be ready yet.#Everyone will wait for you.
+You recall the note you found. Could this be the 'voice of humanity' you read about? Bracing yourself, you slowly put the phone to your ear.##You don't hear words or a voice. You soon understand they don't need those. It's difficult, but you manage to keep track of which thoughts are yours, and which are theirs.##(click anywhere to continue)|830
+EVERYONE IS HERE NOW.##We've escaped everything that held us back in life. We don't have any more burdens... you can escape with us.#This is the purest form of existence. ##A paradise of connection.#Everyone deserves that.##We will bring all humanity together.
+EVERYONE IS HERE NOW.
+You need to think carefully about how to respond...
+YOU CAN'T SAVE EVERYONE
+SUFFERING IS HUMAN
+I DON'T WANT TO DIE
+You explain the imminent arrival of the OLD GOD. With its limitations, the bulletin could never hope to gather humanity in time. #Not to mention how many people are unable to access a computer. ##As it is, convincing all of humanity to die is impossible.
+Oh... then we'll have to wait. It's disappointing, but that's alright. When computers advance, and everyone can be connected, we'll come back for you.##It's a promise, okay?
+How can you believe that...? Well, okay. If you want to suffer, go ahead.
+Your consciousness dips. By the time you snap out of it, you're strangling yourself with the phone cord.#The entity assaults your mind, but the struggle brings out strength you didn't know you had.##You refuse to die.##---------#-5 STAMINA#+15% MAX STAMINA#---------|840
+It's okay. You don't have to be scared. We'll make it easy.
+Soothing thoughts that aren't your own overwhelm your mind. Whether you want it or not, your mind is shielded from the fear of death.#Their thoughts become yours.##It's nice. #You want to stay like this...##---------#-5 REASON#+15% MAX REASON#---------
+PICK UP THE PHONE
+REMEMBER THE NOTE
+DISCONNECTED (I)
+Your connection suddenly cuts off.#When you attempt to reconnect, you find that your number has been blocked from accessing the bulletin.##Dejected, you solemnly pack up the computer to give it back. However, when you arrive back at the computer club, you find a note on the door.#'SEE YOU ALL SOON!'
+DISCONNECTED (II)
+You soon learn that all members leapt in front of a train, holding hands.#With little other choice, you sell off the computer, the guilt weighing on you all the while.#(-3 REASON / +5% DOOM / +3 FUNDS)
+The noise on the other end of the line suddenly cuts out completely.##Still reeling from the mental assault, you find yourself staggering toward the futon.#You collapse into it, and sleep soon takes you...
+You're awakened by the sound of the phone ringing. After what just happened, you hesitate to answer. You warily grab the handset.##When you put the phone to your ear, you hear the trembling voice of the girl you met in the village.|850
+<<I... I can't thank you enough...! It was in my head... and, I-I nearly...>>#She bursts into tears, thanking you over and over. You smile, relieved.##You later learn that the suicides have come to a sudden and complete halt.
+But even still, its promise lingers in your mind.#How long do you have until it comes back for you...?#You smother the thought. For now, it's finished.##[BLOODY BRIEF OF A BECKONING BULLETIN:#ENDING A]
+You wrench the phone from your ear, nearly tossing it across the room.#You could have killed yourself for that thing...##Sweat pouring down your face, you immediately yank the computer's plug from the socket.
+From the bulletin's number and a phone book, you find the system operator's address.#When you enter the cramped apartment, you're met with a smiling, hanged teenager and a still-running, unplugged computer.##You smash it to pieces.
+With the root cause gone, the suicides eventually slow.#While you couldn't save those already in its thrall, you're relieved to know the bulletin won't take any more victims.##[BLOODY BRIEF OF A BECKONING BULLETIN:#ENDING B]
+You find the bulletin's number in the phone book, but when you arrive at the address, you find the place empty. The bulletin was moved.#Out of desperation, police begin confiscating modems and banning students from computers.
+Despite this, the suicides only seem to grow faster. They've spread even further beyond Shiokawa, too.#Your guts twist into knots every time you pass by the computer club's door...##[BLOODY BRIEF OF A BECKONING BULLETIN:#ENDING C]
+A - LOUD AND CLEAR
+B - CONNECTION TROUBLE
+C - DISCONNECTED|860
+INVESTIGATE THIS MYSTERY|この謎を探る
+ENDLESS MODE
+ENDLESS MODE##It's hopeless! No matter what you would do, the destruction of your town and the awakening of an OLD GOD is imminent.##Fight with the ever-increasing chaos as survivors try to find a way to escape from the doomed town.
+As you progress through the investigation events, you will be granted points and special prizes.##Manage your resources carefully and hope for the best...

@@ -1,0 +1,269 @@
+You've retrieved an item from storage!|1
+Недостаточно места для предмета!
+STORAGE
+STORED ITEMS
+Нет места! Предмет перенесен в хранилище!
+To gain a new level, press the flashing button.
+У вас недостаточно опыта!
+ПОГОВОРИТЬ СО СТУДЕНТОМ
+НАСТРОИТЬ ТЕЛЕСКОП
+НАЗАД|10
+У тебя нет телескопа.
+Student is mumbling something to herself.
+You should probably leave her alone.
+Cold water helps you to organize your thoughts. (+1 REASON)
+Hot water helps with your sore muscles. (+1 ВЫНОСЛИВОСТИ)
+Nailing a straw doll to this tree will grant you your wish...##for a price, that is.
+##[you can nail two more straw dolls here]
+##[you can nail one more straw doll here]
+You shouldn't have come here again.#(+1% DOOM)
+ВЕДЬМИНО ДЕРЕВО|20
+According to legends, this tree's roots reach towards the grave of a lynched witch...
+You notice a wallet hidden underneath a fallen branch. (+2 FUNDS)
+The buried witch takes her toll...
+You head fills with forbidden chants!
+You suddenly feel much better! (+2 ВЫНОСЛИВОСТИ)
+пожелать силы#[+2 ВЫНОСЛИВОСТИ]
+пожелать знаний#[+ЗАКЛЯТИЕ]
+пожелать денег#[+2 КРЕДИТА]
+it's a bad idea#[leave]
+You are stopped by a young policewoman.##<<How can we help you?>>|30
+ПОЛИЦЕЙСКИЙ УЧАСТОК
+Officers at the police station are busy working on various weird cases...
+request more police patrols
+complain about police patrols
+share some information#(15 EXP -> 1 FND)
+exit the station
+Officer thanks you and promises more police patrols.#[lowers the combat encounter rate]
+Officer thanks you for your cooperation.#[combat encounter rate returns to normal]
+Detective thanks you for the information and hands you the prize.#[-15 EXP / +1 FUNDS]
+Detective thanks you for the information but says that's not enough for a prize.|40
+You've finally made it insidethe cursed lighthouse!##Your gut is telling you two things: that whoever (or whatever) is behind the weird events, must be on the highest floor of this place and that you should run as far as you can. You're afraid, there won't be a way back once you start climbing these stairs...
+access storage
+rest a bit (+2% DOOM)
+start climbing
+You've rested a bit. (+1 REASON and STAMINA)
+LIGHTHOUSE (GROUND FLOOR)
+As the unnatural fog slowly lifts you are relieved and collapse on the floor...
+The dark clouds swirl around the lighthouse.#Did you arrive too late?
+МОНУМЕНТ
+Forgotten by everyone, the OUTER ENTITY waits patiently for those, who need it...|50
+leave without a sacrifice #[angers the OUTER ENTITY]
+You cut your hand and fill the bowl with your blood...
+You can feel your most cherised memories leave you...
+You burn the money in the bowl...
+You've angered the OUTER ENTITY...
+Bargaining with an OUTER ENTITY is a risky thing but maybe it can postpone the incoming doom?
+feed the OUTER ENTITY with your blood
+give the OUTER ENTITY your most cherised memories
+leave a material gift
+You still have some time before you are asked to the office.|60
+RECEPTION AREA
+You wait patiently in the reception area.
+Many sick people are waiting to be get examined by the overworked hospital staff.
+enter DOCTOR'S OFFICE (+2% DOOM)
+move to CORRIDOR A
+enter PHARMACY#(+3% DOOM)
+A nurse walked past you in a hurry.
+DOCTOR'S OFFICE
+Emergency department is crowded as a direct result of the weird things happening in your town.
+You finally are asked to the doctor's office.##<<Now... how can I help you today?>>|70
+EXIT
+[ADDITIONAL ACTIONS AVAILABLE ON THE INJURY CARDS]
+You use the opportunity and steal a bottle of pills
+You shouldn't risk stealing another bottle.
+You feel like the skull is observing your every move.
+КОРИДОР A
+You venture further down the corridor...
+return to the RECEPTION AREA
+take an ELEVATOR
+войти в МОРГ|80
+What are you doing here?
+The morgue's door is closed.
+КОРИДОР B
+Upper floor is eerily silent in comparison...
+check out PATIENT ROOM
+You shouldn't bother the recovering patients.
+RESTING AT HOME
+It certainly feels good  to be back at home.
+STAMINA/REASON
+Time flies by so fast, you prepare yourself to leave and continue your long investigation.|90
+DOOM
+STAMINA/REASON
+Wait... what's that?#[SOMETHING EVIL KNOWS WHERE YOU LIVE]
+You take a short nap on your bed.
+You bandage the fresh wounds.
+You take a long hot shower.
+You swallow the painkillers.
+You phone your best friend and talk about unrelated stuff.
+You sit on a couch and read your favorite book.
+APARTMENT CORRIDOR|100
+You knock on your friend's door and wait...
+<<Hey dork, I'm with you. Why are we going back to my place?>>
+<<Heyyy... I'm really busy today. Let's hang out some other time, okay?>>
+Huh, Kana's not home.#You should check later...
+Shopping for items takes precious time. (+4% DOOM)
+А... где эта собака?
+SHOPPING FOR ITEMS
+EXIT WITHOUT BUYING ANYTHING
+needs YAKUZA CARD
+ДОСТУПНЫЕ ВЕЩИ
+ЦЕНА
+КРЕДИТЫ
+A random discounted item.
+RESTOCK
+reroll items (+3% DOOM)
+Вы купили новый предмет.
+You don't have enough money.
+Гав!-
+-DISCOUNT ITEM-
+On your way out, you stop by the vending machines. (+1% DOOM)
+SHOP FOR ITEMS
+[costs DOOM to enter]#[funds -> items]
+[costs DOOM to enter]#[regain STAMINA and REASON]
+REST
+VENDING MACHINE
+Entering the ILLEGAL DEN, you instantly notice the girl who attacked you and dropped the prescription.#You throw the expensive medicine on the table before getting closer.##<<I-is it my grandma's drug?... >> her eyes light up.#<<I thought it was gone foreve... but why would you help me at all?>>
+explain what's currently happening
+<<If what you're saying is true, I'll help you!>>
+<<...name's MIKU, by the way.>>
+УЙТИ
+ЖДАТЬ (+2% DOOM)
+LATEST GOSSIP
+ASK TO JOIN  YOU
+НАБЛЮДАТЬ
+SHARE A CREEPY STORY [5 EXP]
+FORCE TO HELP YOU
+GOSSIP - Learn both random and case-related news.#ASK - Recruitment test based on CHARISMA (repeatable).#FORCE - Recruitment test based on equipment, STRENGTH and current DOOM 
+<<Sorry, I don't have time for games.>>
+<<Give me a break!>>
+<<You were always sucha a kidder!>>
+<<I will help you!>>
+<<It sounds strange... but I believe you!>>
+<<Did you hear? There's a cliff nearby with strangely shaped holes...>>
+<<Have you heard about this computer program that...>>
+<<She hasn't come to school since last week...>>
+<<How did you do on your English exam?>>
+<<If OOO didn't do those drawings, then who did?>>
+<<It's been so hard to get any sleep lately.>>
+<<I keep hearing a wailing sound coming from the 3rd stall in the girls bathroom.>>
+<<...he wasn't the same since he came back.>>
+<<Recently, the tap water in my entire neighborhood started tasting weird. Almost like...>>
+<<...yesterday, she told me she saw it again.>>
+notices you and smiles.
+waves at you.
+<<Have you heard about this computer program that...>>
+<<She hasn't come to school since last week...>>
+<<How did you do on your English exam?>>
+<<If OOO didn't do those drawings, then who did?>>
+<<It's been so hard to get any sleep lately.>>
+is taking their pen apart and putting it back together over and over
+is waiting for the class to begin.
+is staring at the clouds. They look like heads.
+is reading a horror manga about spirals.
+They seem relaxed.
+They look fine.
+They look nervous.
+There is something _off_about them.
+They are trembling with fear.
+You don't know any good stories to share.
+seems visibly shaken by your story.#<<i-it's just a story, right?...>>
+combined INTIMIDATION value
+Student, threatened by your weapon, agrees to help you.#Don't expect them to stay loyal though.
+Student shoves you away and escapes screaming for help.#(+5% DOOM)
+The burned down school building is empty.
+Many of the books you can find here were donated after the accident at the university building.
+БИБЛИОТЕКА
+You feel the gaze of a librarian...
+study old tomes#[+SPELL; +3% DOOM]
+make notes#[+5 EXP; +2% DOOM]
+You carry out few books to the main reading room...
+You decide to make some notes about subjects that could be relevant in this case.##Hopefully all your work won't go to waste.#[+5 EXPERIENCE]
+You carry out a dusty tome to the main reading room...
+return the book and go back
+return the books and exit the library
+Interpreting the old, incomplete translations is a tedious task.##Finally, you find a fragment you were looking for.#[+NEW SPELL]
+[NEW ACHIEVEMENT UNLOCKED!]
+The nurse treats
+<<sorrrry dearr, a patient is herre. I'll call you back...>>#says the nurse as she's eyeing you up.##<<How can I help you today?>>##[ALL YOUR MINOR INJURIES ARE TREATED]
+SCHOOL NURSE
+Younger students are afraid of her... why?
+The air here is noticeably colder... (+1% DOOM)
+<<The history of this region is just... fascinating. Why won't you discover it, yourself?>>
+HISTORY CLUB
+Why would this popular student join this weird club
+YOU ARE ALREADY THERE
+TRAVEL TO HOME
+TRAVEL TO DOWNTOWN
+TRAVEL TO SCHOOL
+TRAVEL TO HOSPITAL
+TRAVEL TO SEASIDE
+TRAVEL TO FOREST
+TRAVEL TO MANSION
+TRAVEL TO VILLAGE
+TRAVEL TO APARTMENTS
+TRAVEL TO
+THREAT LEVEL
+DOWNTOWN'S THREAT LEVEL
+SCHOOL'S THREAT LEVEL
+HOSPITAL'S THREAT LEVEL
+SEASIDE'S THREAT LEVEL
+FOREST'S THREAT LEVEL
+MANSION'S THREAT LEVEL
+VILLAGE'S THREAT LEVEL
+OOO'S THREAT LEVEL
+APARTMENTS' THREAT LEVEL
+'S THREAT LEVEL
+YOU CAN'T INVESTIGATE#YOUR HOME
+INVESTIGATE
+This city is changing so fast you can barely recognize it anymore...
+[CHOOSE UP TO TWO DIFFERENT ADDITIONAL ACTIONS PER LOCATION FOR THIS PLAYTHROUGH.]
+[CHOOSE ONE ADDITIONAL ACTIONS PER LOCATION THAT FITS YOUR TASTE.]
+randomize and continue
+СОХРАНИТЬ
+ЗАГРУЗИТЬ
+подтвердить и ПРОДОЛЖИТЬ
+ДОМ
+DOWNTOWN
+ШКОЛА
+ГОСПИТАЛЬ
+ПОБЕРЕЖЬЕ
+ЛЕС
+ПОМЕСТЬЕ
+ДЕРЕВНЯ
+АПАРТАМЕНТЫ
+Regain some STAMINA and REASON by increasing the incoming DOOM.
+ОККУЛЬТНЫЙ МАГАЗИН
+A wide assortment of useful things with the cutest seller.
+A consistent pool of basic items, snacks and drinks.
+Boutique focusing on cursed artifacts and occult stuff.
+Manage combat encounters and share your knowledge with the officers.
+ШКОЛЬНАЯ ПЛОЩАДЬ
+Contains dusty tomes donated by Tokyo University. Study them to learn SPELLS or earn EXP.
+Convince or force the students gathered here to join you as ALLIES.
+Nurse with a morbid reputation. She will treat your MINOR INJURIES for free.
+Learn about the town's history and buy occult items, spells and upgrades
+АПТЕКА
+ENTER
+A building too big for the town's needs. Skip the line and heal your injuries.
+Here you can buy a wide variety of first aid products and pharmaceutical drugs.
+HARDWARE SHOP
+МОНУМЕНТ
+ILLEGAL DEN
+FUJII-SAN's shop stocks tools for all your DIY and technical needs.
+Forgotten by everyone, the OUTER ENTITY will help you against OLD GODS... for a price.
+Billard club owned by gangsters is the only place to buy illegal goods.
+An ancient tree where a lynched witch was buried can grant you your wishes... for a price.
+СОСЕД
+Your friendly neighbour. Enables a mystery and a chance for an ally.
+[manage combat encounters]#[experience -> funds]
+[study the current mystery]#[doom -> spells]
+[costs DOOM to enter]#[recruit allies / learn gossip]
+[costs DOOM to enter]#[treat MINOR INJURIES]
+[costs DOOM to enter]#[doom -> rewards]
+[costs DOOM to enter]#[heal injuries]
+[lower doom for a price]
+[unavailable]#[needs higher DOOM]
+[wish-granting tree]#[curse -> various bonuses]
+[costs DOOM to enter]#[chance for an ally]
+CITY PLANNING#[option]

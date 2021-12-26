@@ -1,0 +1,171 @@
+Русский|Japanese|Chinese|1
+WORLD OF HORROR|
+'At the beginning, no one had any idea what we were against.'|
+[NO EFFECT]|
+MEDICAL HISTORY|5|
+'Brittle bones run in your family and you've spent each summer in a cast.'|
+[you start with extra experience and BANDAGES but each damage can cause an INJURY]|
+HUNTED BY THE CULT
+'You've managed to run from them once, but the cult is tireless...'|
+[solving mysteries reduce more DOOM but you get more unique combat encounters]|10|
+THE SEVENTH CURSE|
+'Your family was cursed. Everyone around you will die...'|
+[you start the playthrough with more FUNDS but can't have any HUMAN allies]|13|
+ILL-FATED|
+'You were born under a bad moon...'|15|
+[all event skill checks automatically fail]|
+KNIGHT-ERRANT|
+'Only I can save our town...'|
+[receive a major penalty each time you complete a mystery with sub-A ending]|19|
+SCARS|20|
+'I've made it through hell and back, you won't break me now.'|
+[lowers incoming damage by 1, drastically lowers MAX STAMINA and REASON]|
+CURIOUS BIRTHMARK|23|
+'Doctor, if it looks 'fine', please explain to me, why is it changing its shape?'|
+[each combat damage can cause a CURSE]|
+ELDRITCH PARASITE|26|
+'Something is... growing inside me'|
+[you start with extra STAMINA and REASON but can't regain them]|
+FATALIST|29|
+'It's... pointless, I can't change my fate...'|
+[you must solve the mysteries in order they appear on the board]|31|
+TRANSFER STUDENT|移籍学生|32|
+Name: KIRIE MINAMI#18 / FEMALE# #Could the ghosts following her be in any way connected with all the weird events happening in this town?|
++ KNOWLEDGE#- STRENGTH#starts with one random SPELL|
+KIRIE|
+SWIMMING TEAM CAPTAIN|スイミングチームキャプテン|36|
+Name: AIKO TAKAHASHI#18 / FEMALE# #Barely surviving after a ghost of a drowned man kept her underwater, she is determined to solve this mystery.|
++ DEXTERITY#- KNOWLEDGE#starts with combat speed bonus|
+AIKO|
+YAKUZA DRIVER|ヤクザドライバ|40|
+Name: HARU#24 / MALE# #Robbing that old abandoned manor was a mistake. With his friends dead and mutilated, and a vengeful horror chasing him, no speed is too high.|
++ STRENGTH#- KNOWLEDGE#starts with CIGARETTES|
+HARU|43|
+TEEN IDOL|ティーンアイドル|44|
+MIZUKI HAMASAKI#18 / FEMALE# #What a strange world we live in, where stopping an ancient evil is the easiest way of boosting your career.|
++ CHARISMA#- STRENGTH#starts with a random ALLY|
+MIZUKI|
+PHOTOGRAPHER|写真家|48|
+Name: KOUJI TAGAWA#19 / MALE# #They say a picture is worth a thousand words.#The government won't sweep this one under a rug.|
++ PERCEPTION#- DEXTERITY#starts with a CAMERA|
+KOUJI|51|
+MED STUDENT|MED STUDENT|52|
+Name: MIMI#22 / FEMALE# #Finally a way to put to practice everything she's learnt so far.|
++ KNOWLEDGE#- DEXTERITY#starts with a SCALPEL|
+MIMI|55|
+RIOTER|暴徒|56|
+Name: MIKU#19 / FEMALE# #Rebelious teenager keen on spreading chaos. She will protect her hometown, even if only for her own selfish reasons.|
++ STRENGTH#- PERCEPTION#increasing DOOM grants various bonuses|
+MIKU|59
+HUNTER'S DAUGHTER|ハンターの娘|60|
+Name: MORIKO ISHII#19 / FEMALE# #Ignoring her father's warnings, she decided to hunt the monster killing the animals to protect this forest... and, unknowingly, save the world.|
++ PERCEPTION#- DEXTERITY#starts with her father's shotgun|
+MORIKO|
+WITCH|魔女|64|
+Name: AYAKA KUROI#17 / FEMALE# #They didn't want to take part in Ayaka's ritual. Now, they are all dead and their souls will continue to torment her.|
++ KNOWLEDGE#- LUCK#starts with ONYX MEDALLION|
+AYAKA|
+EX-CULTIST|信者|68|
+Name: TOSHIAKI WAKAMATSU#19 / MALE# #When Toshiaki discovered the club's sinister intention he flew, stealing their most prized possession. This cursed book will either save or doom our entire world...|
++ PERCEPTION#- STRENGTH#starts with NECRONOMICON|
+TOSHIAKI|
+PRIEST|出家|72|
+Name: YASHIRO KAWAJI#26 / MALE# #While he didn't technically complete his studies at the seminary, a worrying letter from his sister forced Yashiro to take the first train to Shiokawa. After all, she died a few years ago...|
++ KNOWLEDGE#- CHARISMA#starts with BRONZE CRUCIFIX|
+YASHIRO|
+You need to leave this smelly town soon.|
+The cards predicted this...|
+What a nice day today.||
+The order won't matter anyway...|79
+PRIEST
+CHUPACABRA SWEATER
+EXQUISITE TASTE|82|
+'Only a few places are good enough for me.'|
+[only one additional action is available per location]|84|
+The cult members are on your trail!|85|
+The curse continues to follow you...|
+Something is growing inside you...|
+You were born under a bad moon...|
+You've been waiting for this your entire life...|89|
+The parasite stirs.|90|
+You've been through worse...|91|
+INCOGNITO
+<<SORRY I DON'T CELEBRATE THAT>>|93
+HAPPIEST LEMON|94
+COMMONER|95|
+'I was supposed to die.'|
+[you can't gain EXPERIENCE]|97|
+BOOKWORM
+SPORT JACKET
+TEEN WITCH II|100
+WINDSTOPPER
+HIS SWEATER
+RUNAWAY JACKET
+CULT OF THE CORN
+HUNTER'S SWEATER
+WARM JACKET
+EST.65
+MORI KEI
+HAIL TO THE KING
+ASPIRING IDOL|110
+INNOCENT STUDENT
+THE COLLECTION
+REBEL OUTFIT
+PRIVATE SCHOOL
+<STAR>
+SKELETON
+REPORTER
+BLOODY SWEATER
+JUNIOR SALARYMAN
+HAWAII|120
+LEATHER REBEL
+CHAD
+DORAKYURA
+THUG JACKET
+BAR BRAWL
+МАФИЯ
+САМУРАЙ
+КОЖАНКА
+ФУТБОЛКА
+DOG GOD FESTIVAL|130
+RIOT JACKET
+BAND T-SHIRT
+COOL STUDENT
+ТОКИО
+OCCULT TANK-TOP
+АЛЬТЕРНАТИВКА
+LITTLE DEVIL
+МЕДСЕСТРА
+TANK-TOP
+P.CULTURE|140
+ХОРОШАЯ ДЕВОЧКА
+СПОРТИВКИ
+СЁРФ!
+(ACTUAL) NURSE
+TRANSFER GIRL
+CASUAL SHIRT
+TEEN WITCH
+HIRIE
+60е
+WZ.86|150
+SHEET GHOST
+КАПИТАН
+GYM CLOTHES
+SAKHALIN
+TEACHER'S PET
+VANITY JACKET
+МУМИЯ
+SPORT TEAM
+CUTE SHIRT
+ALWAYS RUNNING|160
+chosen perk packs|161
+A new page was added to the NECRONOMICON.|162
+I've failed them... (+6% DOOM)
+You've lost the hunting cultists... for now. (-1% DOOM)|164
+FAITH
+(passive effect):#-2 MAX STAMINA/REASON#+1 DAMAGE#+1 STRENGTH#(effect per mystery):#-10 EXPERIENCE
+(passive effect):#-1 MAX STAMINA/REASON#(effect per mystery):#-5 EXPERIENCE
+(passive effect):#+2 MAX STAMINA/REASON#+1 DEXTERITY#(effect per mystery):#regain 1 STAMINA/REASON#+20 EXPERIENCE
+(passive effect):#+1 MAX STAMINA/REASON#(effect per mystery):#+10 EXPERIENCE
+CURRENT VALUE|170
+#increase FAITH by defeating enemies and solving mysteries#decrease FAITH by getting damaged in combat#-----#

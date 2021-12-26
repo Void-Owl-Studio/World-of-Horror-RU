@@ -1,0 +1,275 @@
+[ATTACK THE MASTER CULTIST]|
+урон|
+Attack the chanting cultist in an attempt to stop the ritual, dealing|
+[SUFFER FOR ME]
+Lose 2 STAMINA
+ПНУТЬ
+[атаковать без оружия]
+base chance to hit|
+The music is getting louder, you must hurry!|9
+Lower multiplier means that actions will take less time.|10
+Combat sequence saved!
+[CRY FOR ME]
+currently your chance to hit is lowered by
+Lose 2 REASON
+[BLEED FOR ME]
+Set remaining STAMINA to 3|16
+[GIVE UP FOR ME]
+Set remaining REASON to 3
+[DIE FOR ME]
+Kills you instantly.|20
+[SOMETHING EVIL IS SATED]
+...for now.
+INCORPOREAL ENEMY
+[this attack can't hurt a ghost enemy]
+GHASTLY PRESENCE
+GHASTLY PRESENCE prevents you from attacking this enemy.
+LEAVE AN OFFERING|27
+Burn a material offering in an attempt to appease the ghost, dealing
+[COST: 1 FUNDS]
+[this action requires FUNDS]|30
+SEVER THEIR TIES TO OUR WORLD
+Deals|32
+(no weapon)
+[The invisible web prevents you from running from this encounter]
+[this enemy is so massive, this attack won't cause any damage]
+SACRIFICE THE OTHER GUEST
+kill the other guest, it will deal 15 damage to the HORRIBLE OLD MAN
+UNPLUG LIFE SUPPORT
+The monster seems to gain its strength from the sleeping patients. Unplugging life support of one of them will weaken it but kill that patient.#(deals 15 damage)#COST: 3 REASON
+SACRIFICE YOUR ALLY|40
+kill your follower on an altar in an attempt to appease the enem
+[this action requires an ally]
+[one-time use only]#[needs STAMINA or REASON to be lower than 3]
+DESPERATE STRUGGLE
+[one-time use]##doubles all damage dealt during this turn
+PRAY
+regain 1 STAMINA#COST: 2 REASON
+MEDITATE
+regain 1 REASON#COST: 2 STAMINA
+LISTEN TO THE RAMBLING|50
+[PERCEPTION-based]|51
+learn a new spell or gain experience#COST: 1% DOOM
+FIRE WEAPON
+ASK YOUR ALLY TO DISTRACT THE ENEMY
+If succeeded: faster combat action for the duration of this encounter#If failed: lose a random ally base chance: 70%
+CAMERA FLASH
+Use your camera's flash to temporarily blind the enemy.#(-10 POWER)
+[needs a firearm to perform this action]|58
+BREAK INTO MINIVAN
+Maybe there's something useful in the gardener's minivan?|60
+PROTECT THE GARDENER
+This turn, the plants will attack you instead of SHIRO-SAN.
+The doorway
+The doorway is blocked by thick branches.#You need to find another way out!
+CHOP YOUR WAY OUT
+Using the FIRE AXE, you can quickly chop down the branches blocking the quick way out of this mansion!
+LEAD THE GARDENER
+Continue leading the injured man outside. You'll need to perform this action multiple times to leave the mansion.|68
+W-WHAT'S THAT?
+Stop and take a closer look at SHIRO-SAN's injuries.|70
+Plants are attacking you! You must protect the injured SHIRO-SAN and lead him to safety. He will continue to lose HEALTH each turn.
+[DEXTERITY-based]|72
+[KNOWLEDGE-based]|73
+DODGE|74
+drastically lowers the hit chance for the enemy
+COMBAT SKILL
+lowers your EXPERIENCE by 5 and raises your chance to hit by 10% for the rest of this encounter
+[STRENGTH-based]|78
+BRACE FOR IMPACT
+lowers the incoming damage by half and ignores any special attack|80
+[CHARISMA-based]
+[LUCK-based]|82
+LAUNCH SEQUENCE|シーケンス開始|83
+CLEAR|クリア
+ХОД
+НАЧИНАЕТСЯ!
+OFFENSIVE ACTIONS|攻撃アクション
+SUPPORT ACTIONS|サポートアクション
+DEFENSIVE ACTIONS|防御アクション
+SPIRITUAL ACTIONS|スピリチュアルアクション|90
+current time multiplier|乗算時間
+ЗДОРОВЬЕ - defines enemy's stamina.#Getting it to zero wins the encounter.|体力 - 敵のスタミナ量を示す。#ゼロにすることで戦闘に勝利する。
+УРОН - after each sequence, enemies perform an attack draining your stamina (-STA),reason (-REA) or both (-ALL)
+СИЛА - this stat defines your chance to successfully attack the enemy. The higher POWER, the harder it will be.
+АТАКОВАТЬ ОРУЖИЕМ
+[needs an equipped weapon to perform this action]|[実行するには武器を装備している必要がある]
+ПНУТЬ
+[attack without a weapon]|[武器を使わず攻撃する]
+СИЛЬНАЯ АТАКА
+LOOK FOR AN IMPROVISED WEAPON|間に合わせの武器を探す|100
+pick up a random improvised weapon||適当な間に合わせの武器を拾う
+You missed the attack!|攻撃を外してしまった!
+You prepare to strike...|あなたは狙いを定めている……
+[Fill the COMBAT SEQUENCE (white bar) with combat moves and click the 'LAUNCH SEQUENCE' to attack your enemy.]##(right click) - delete the last combat move
+[you can't run from this encounter]|[この戦闘からは逃げられない]
+УБЕЖАТЬ
+ПРИГОТОВИТЬСЯ К АТАКЕ
+next attack is guaranteed to hit.|攻撃準備次の攻撃が確実に命中する
+ATTACK BOOST|攻撃増幅
+Your next attack has additional 10% chance to hit, this effect stacks.|次の攻撃の命中率が10%上がる効果は累積する|110
+УКУСИТЬ
+Вы кусаете
+Цель
+Target the other enemy.|114
+ASSESS THE SITUATION
+learn about your enemy
+BOW
+A part of a ritual (most combat rituals are a combination of five BOWS and CLAPS.#Even if you don't get it right, you'll be provided with a hint).
+CLAP
+NO HOPE!|120
+run from the horrible beast like a coward
+THIS IS TOO MUCH!
+you close your eyes, fighting the increasing dizziness...
+ends the encounter for a DOOM penalty#[+0% DOOM]
+(RUNNING SHOES)
+% DOOM
+ends the encounter for a DOOM penalty
+FORCE MANHOLE OPEN (WITHOUT TOOL)|128
+try to open the manhole cover present in the janitor's office
+FORCE MANHOLE OPEN (WITH TOOL)|130
+TOPPLE A LAMP
+spark from the broken bulb should set the highly flammable cleaning fluids on fire...|132
+PICK IT UP|拾う|133
+RESOLVE COMBAT|戦闘を解決する
+You've defeated|あなたは勝利した
+You punch|あなたはを殴りつけた
+You kick|あなたはを蹴った
+You stab|あなたは突き刺した
+You slash|あなたは斬りつけた
+You shoot|あなたは撃った|140
+You bash|あなたは体当たりした
+You saw through|あなたは斬りかかった
+Вы успешно сбежали от
+ПОБЕГ
+You burn
+You've found an item|アイテムを発見した
+Wait, what's that?|待て、あれは何だ？
+You don't have time to change the equipment.
+You've already defeated the enemy.
+This action needs a target enemy.|150
+KAORI YUTO
+THE LINGUIST#[+1 COMBAT DAMAGE]
+SAKINA OKADA
+THE GEOLOGIST#[+1 COMBAT DAMAGE]
+HIROKI SHINOHE
+THE THEOLOGIST#[-1 INCOMING DAMAGE]
+Inside the minivan, you find a can of flammable gas...|157
+You can't find anything useful anymore...
+You prepare to protect the gardener...
+You help SHIRO-SAN walk towards the exit.|160
+You've escaped the basement but SHIRO-SAN follows you!
+The top of SHIRO-SAN's head flies off, revealing his brain! Out of it, the fruiting body of a fungus!
+You try to sever their ties to this world!
+You burn the money! (-1 FUNDS)
+[SOMETHING TRULY EVIL REQUIRES MORE]
+[YOU'VE BLED ENOUGH]
+[YOU'LL RETURN...]
+[YOU'VE GIVEN UP ALREADY]
+has managed to distract
+has tried to distract|170
+но умер!
+You don't have any allies left!
+You throw
+on the altar and stab them in the chest! (-3 REASON)
+The ritual makes you stronger! (+1 STAT)
+Dodging an attack, you unplug a life support machine of one of the patients.
+The patient dies and one of the tendrils disappears... (-15 HEALTH)
+Reality shifts, your action was cancelled.
+Time freezes, your action was cancelled.
+You grab a knife and stab one of the family members!|180
+HORRIBLE OLD MAN recoils in pain! (-15 damage)
+HORRIBLE OLD MAN... smiles.
+You brace yourself for an incoming attack!
+You prepare yourself to dodge the incoming attack!
+It's your final chance! Don't waste it!
+You meditate! (+1 REASON, -2 STAMINA)
+You atttack the chanting cultist, dealing
+damage!
+The enemy is repeating a magical incantation!...
+The enemy is repeating meaningless facts!...|190
+The enemy suddenly gets silent and starts staring at you....
+You pray! (+1 STAMINA, -2 REASON)
+The gunshot is deafening!
+You study the movement of the enemy, finding an opening!
+Not enough EXPERIENCE for that action!
+You try to open the manhole...
+It would be easier with a proper tool, though.
+Using crowbar, you try to open the manhole...
+здоровье
+You bow|200
+You clap
+You duck down and grab an item lying on the ground.
+COMBAT TUTORIAL|203
+During each turn, you'll build a sequence of attacks and moves from the action ring (B).#Once you've filled the sequence bar (C), press the LAUNCH SEQUENCE button to finish your turn.|毎ターン、攻撃や行動のシーケンスをアクションリング (B)から組み立てる。#シーケンスバー(C)を埋め終えたら、[シーケンス開始]ボタンを押してターンを確定する
+With time, you will discover new combat moves, available through the ACTION FILTER (A).#But first, you need a weapon. Find and choose an action called 'LOOK FOR AN IMPROVISED WEAPON'|アクションフィルタ (A)に新しい戦闘行動が表示される場合がある#ただし、その場合も武器が必要だ[即席武器を探す]という行動が選べる
+Look, a new ITEM has appeared in the upper right corner, that's your INVENTORY.#Click it and find the EQUIP (highlighted) button.|右上部、インベントリに新しい[アイテム]が表示された#クリックすればハイライトされた[装備]ボタンが見つかるはずだ
+USE|207
+EQUIP - places item in its equipment SLOT
+INSPECT - additional information about the item
+STORAGE - places item in the storage
+THROW AT ENEMY - throws the item at the enemy
+DISCARD - removes item from the game
+TRADE IN - sell this item
+YOU WOULDN'T KNOW WHERE TO FIND A BUYER FOR IT
+ГОВОРИТЬ
+LET GO
+УБИТЬ
+SEND AGAINST ENEMY
+CAST THIS SPELL
+FORGET THIS SPELL (+1 REASON)
+AURA: FREE CAST
+ATH-YOLAZSTH'S GAZE: CASTING THIS DOESN'T COST REASON
+TREATMENT - 1 FUNDS
+SURGERY - 2 FUNDS
+MODERN MEDICINE CAN'T HELP HERE
+BANDAGE THIS WOUND
+PRICK IT WITH A NEEDLE
+TREAT THIS WOUND
+REMOVE CURSE
+^ AVAILABLE ACTIONS
+Item added to the storage!
+You can't store items you are wearing.
+The thrown item damages the enemy!
+You prick it with a needle. A geyser of foul-smelling whitish-yellow pus bursts out and you scream in pain! S-shouldn't a doctor see this?...#(-2 STAMINA, -1 MAX STAMINA)
+The treatment was successful!
+You can't afford that!
+The surgery was successful!
+Your ally
+attacked
+to protect you!
+That attack dealt
+damage
+You kill
+for plotting against you!
+You forgot this spell! (+REASON)|245
+No Weapon|武器なし
+Nothing|何も持っていない
+current backstory:
+CHANGE BACKSTORY
+START THE GAME
+STAMINA|スタミ
+REASON
+DOOM
+NO RITUAL ACTIVE|発動中の儀式なし
+Welcome and thank you for trying WORLD OF HORROR.#Inspired by adventure games from the 80s, the visual overload may be a little disorienting in the beginning. In this short tutorial, I'll do my best to explain various elements and prepare you to fight the horrible OLD GODS.#- Pawel, creator of the game
+That's the -MAIN GAME SCREEN-. Here, you will interact with your surroundings, solve mysteries and fight enemies.
+That's the -USER INTERFACE- part of the screen. ##Here, you'll manage your inventory, cast spells and access the game options.
+All performed actions will be added to the -LOG- here.
+That's you on the right. WORLD OF HORROR has RPG elements and your attributes are described by six basic stats.##Move your mouse over them to learn more.
+Your ability to continue your investigation is determined by STAMINA and REASON. If either of them reaches zero, the game ends.
+That's your INVENTORY. You can keep up to four items.#Click here to inspect, use or equip anything you pick up.
+There are three EQUIPMENT SLOTS. Equipped items do not count towards the four items limit.#A - weapon used in combat#B and C - trinkets and armor
+Additional TABS will take you to your SPELLS, current STATUS and OPTIONS
+That's your (STA) stamina. It represents your physical health. Once it reaches zero, your character dies.	
+That's your (REA) reason. It represents your stability and will to confront the horrors. Once it reaches zero, your character collapses and the game ends.
+That's (STR) Strength.
+That's (DEX) Dexterity.
+That's (PER) Perception.
+That's (KNW) Knowledge.
+That's (CHA) Charisma.
+That's (FND) Funds, representing the amount of money you can spend.
+As you progress with your playthrough, more helpful tips will appear. Would you like to turn the combat tutorial on? (It will start during your first enemy encounter)
+The enemy seems to be weak against this type of weapon! (+DAMAGE)
+
+
